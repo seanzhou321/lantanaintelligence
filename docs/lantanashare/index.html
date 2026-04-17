@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LantanaShare — Borrow and Lend with People You Trust</title>
+  <meta name="description" content="LantanaShare is a community mobile app for borrowing and lending physical items within trusted groups of friends. Bringing back the social fabric that borrowing builds." />
+  <link rel="stylesheet" href="../css/style.css" />
+</head>
+<body>
+
+  <!-- ===== HEADER / NAV ===== -->
+  <header class="site-header">
+    <nav class="nav" aria-label="Main navigation">
+      <a href="../index.html" class="nav__brand">Lantana Intelligence</a>
+      <button class="nav__toggle" aria-label="Toggle navigation" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded')==='true'?'false':'true'); document.getElementById('nav-links').classList.toggle('open');">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__links" id="nav-links" role="list">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about.html">About</a></li>
+        <li><a href="index.html" class="active">LantanaShare</a></li>
+        <li><a href="../legal.html">Legal</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- ===== PAGE HERO ===== -->
+    <section class="hero" aria-label="LantanaShare hero">
+      <div class="container">
+        <p class="hero__eyebrow">Community App — Phase 1 Limited Release</p>
+        <h1>LantanaShare</h1>
+        <p class="hero__tagline">
+          Borrowing from a friend is not just practical. It is the kind of
+          small interaction that builds real community. LantanaShare makes
+          it easy.
+        </p>
+        <div class="hero__actions">
+          <a href="#the-idea" class="btn btn--primary">The Idea</a>
+          <a href="legal/" class="btn btn--outline">Legal Documents</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== THE INSIGHT ===== -->
+    <section class="mission" aria-label="The community insight" id="the-idea">
+      <div class="container">
+        <h2>Things Were Different When People Needed Each Other</h2>
+        <p>
+          There is a reason people in resource-scarce communities used to know
+          their neighbors by name. When you needed to borrow a ladder, a truck,
+          or a bag of flour, you knocked on a door. The person who answered
+          became someone you knew. Those small exchanges — asking and helping,
+          lending and returning — were the fabric of community life.
+        </p>
+        <p>
+          Cheap goods changed that. When anything can be bought for a few dollars
+          and delivered by tomorrow, you stop needing the people around you. But
+          the calculus has shifted again in a different direction: real estate is
+          expensive, storage space is a luxury, and the average household fills
+          with things used a handful of times. The cost is not money — it is space,
+          clutter, and the quiet loss of reasons to interact.
+        </p>
+        <p>
+          LantanaShare is built on a simple idea: an easy way to borrow from people
+          you already trust does not just solve a practical problem. It brings back
+          the kind of small interactions that make a group of acquaintances feel
+          like a community.
+        </p>
+      </div>
+    </section>
+
+    <!-- ===== PRODUCT DESCRIPTION ===== -->
+    <section class="section" aria-label="Product overview" id="overview">
+      <div class="container">
+        <div class="two-col">
+          <div>
+            <span class="badge">What Is LantanaShare?</span>
+            <h2>Borrowing, Organized</h2>
+            <p>
+              LantanaShare is a community mobile app (Android) for borrowing and
+              lending physical items within a trusted group of friends. Members list
+              items they are willing to lend, make borrow requests, track active
+              loans, and handle any shared costs — all within a small, invitation-only
+              community they control.
+            </p>
+            <p>
+              There is no marketplace, no ratings from strangers, and no transactions
+              with people you do not know. LantanaShare is designed exclusively for
+              groups that already have a foundation of trust and want a lightweight
+              tool to make sharing practical.
+            </p>
+            <p>
+              Currently in Phase 1 limited release and approaching MVP. Features and
+              availability are subject to change.
+            </p>
+          </div>
+          <div>
+            <span class="badge">Who It's For</span>
+            <h2>People Who Already Know Each Other</h2>
+            <p>
+              LantanaShare is for real-world social circles — a group of neighbors,
+              a circle of close friends, a family network, a community organization.
+              Not a marketplace for strangers; a tool for people who already trust
+              one another and want a simple, organized way to share.
+            </p>
+            <p>
+              If your group has ever passed tools around informally, coordinated
+              shared equipment, or just wanted to know who still has the camping
+              stove — LantanaShare brings that informal system into a lightweight
+              app that keeps it honest and frictionless.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== HOW IT WORKS ===== -->
+    <section class="section section--alt" aria-label="How it works" id="how-it-works">
+      <div class="container">
+        <div class="section__header">
+          <h2>How It Works</h2>
+          <p>Simple community-based borrowing and lending, with just enough structure to keep things fair.</p>
+        </div>
+        <div class="cards">
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            </div>
+            <h3>Join a Trusted Community</h3>
+            <p>Create a community or join one by invitation. Communities are small by design — people you know personally. You control who is in your group.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+            </div>
+            <h3>List Items and Make Requests</h3>
+            <p>List items you are willing to lend — tools, sports equipment, kitchen appliances, books, camping gear, and more. Browse what others have available and request what you need.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><polyline points="9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+            </div>
+            <h3>Track Loans and Returns</h3>
+            <p>The app keeps a transparent record of active borrows, return status, and item history within your community. No more forgotten loans or disputed returns.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+            </div>
+            <h3>Community Bill Splitting</h3>
+            <p>When shared costs arise, the app's community bill-splitting system tracks who owes what across the group — settled monthly among active members.</p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== WHAT YOU CAN SHARE ===== -->
+    <section class="section" aria-label="What you can share">
+      <div class="container">
+        <div class="section__header">
+          <h2>What You Can Share</h2>
+          <p>LantanaShare is designed for everyday physical items with a declared replacement value up to $300.</p>
+        </div>
+        <ul class="feature-list">
+          <li>Tools and hardware — drills, saws, ladders, and other household tools</li>
+          <li>Sports and outdoor equipment — bikes, kayaks, camping gear, sports gear</li>
+          <li>Kitchen appliances — stand mixers, food processors, specialty cookware</li>
+          <li>Books, games, and media</li>
+          <li>Baby and child equipment — strollers, carriers, play equipment</li>
+          <li>Photography and audio equipment</li>
+          <li>Party and event supplies</li>
+          <li>Musical instruments</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ===== COMMUNITY PRINCIPLES ===== -->
+    <section class="section section--alt" aria-label="Community principles">
+      <div class="container">
+        <div class="section__header">
+          <h2>Community Principles</h2>
+          <p>LantanaShare is built on trust, not enforcement. These principles keep that trust intact.</p>
+        </div>
+        <ul class="feature-list">
+          <li>Trust-first — communities are invitation-only; you choose who participates</li>
+          <li>Replacement value cap of $300 — keeps the stakes proportionate for informal lending</li>
+          <li>Transparent history — every borrow and return is visible to community members</li>
+          <li>Human resolution — disputes are mediated by community admins, not automated systems</li>
+          <li>No platform payments — all cost-sharing is settled peer-to-peer among members</li>
+          <li>Privacy by default — your data is never sold or used for advertising</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ===== LEGAL CTA ===== -->
+    <section class="mission" aria-label="Legal information">
+      <div class="container">
+        <h2>Legal &amp; Policies</h2>
+        <p>
+          Review the complete legal documentation governing the use of LantanaShare,
+          including the Terms of Service, Privacy Policy, User Agreement, Community
+          Bylaws, and Liability Waiver. Understanding these documents is part of
+          joining a LantanaShare community.
+        </p>
+        <a href="legal/index.html" class="btn btn--primary" style="margin-top:0.5rem;">View Legal Documents</a>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer" aria-label="Site footer">
+    <div class="footer__inner">
+      <div>
+        <p class="footer__brand">Lantana Intelligence LLC</p>
+        <p class="footer__location">Vista, CA</p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <ul class="footer__nav" role="list">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../about.html">About</a></li>
+          <li><a href="index.html">LantanaShare</a></li>
+          <li><a href="../legal.html">Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="footer__bottom">
+      &copy; 2026 Lantana Intelligence LLC. All rights reserved.
+    </div>
+  </footer>
+
+</body>
+</html>

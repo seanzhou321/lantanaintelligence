@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About — Lantana Intelligence LLC</title>
+  <meta name="description" content="Lantana Intelligence LLC is a one-person AI coding methodology consultancy founded by Yixiong (Sean) Zhou — software architect, SBR framework author, and 25-year engineering practitioner." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ===== HEADER / NAV ===== -->
+  <header class="site-header">
+    <nav class="nav" aria-label="Main navigation">
+      <a href="index.html" class="nav__brand">Lantana Intelligence</a>
+      <button class="nav__toggle" aria-label="Toggle navigation" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded')==='true'?'false':'true'); document.getElementById('nav-links').classList.toggle('open');">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__links" id="nav-links" role="list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="lantanashare/index.html">LantanaShare</a></li>
+        <li><a href="legal.html">Legal</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- ===== PAGE HERO ===== -->
+    <section class="page-hero" aria-label="Page header">
+      <div class="container">
+        <h1>About Lantana Intelligence</h1>
+        <p>A one-person consultancy built on original methodology research into AI-assisted software development.</p>
+      </div>
+    </section>
+
+    <!-- ===== FOUNDER ===== -->
+    <section class="section" aria-label="Founder background">
+      <div class="container">
+        <div class="two-col">
+          <div>
+            <span class="badge">Who I Am</span>
+            <h2>Yixiong (Sean) Zhou</h2>
+            <p>
+              I am a software architect with 25+ years of experience building production
+              systems — from bioinformatics platforms and aerospace MRO enterprise software
+              to hyperscale distributed systems at Walmart Labs. I hold a Ph.D. in
+              Experimental Psychology from McGill University, which informs the empirical
+              discipline I bring to methodology research.
+            </p>
+            <p>
+              At Walmart Labs I served as a Staff Software Engineer and architect on the
+              rebuild of the company's multi-cloud push notification service — the backbone
+              of the store pickup experience, required to process 30 million messages per
+              day with 24/7 uptime and disaster recovery guarantees. Before that, at
+              Tapestry Solutions and MIRO Technologies, I spent a decade on the architecture
+              of GOLDesp, an aerospace MRO enterprise platform, gaining direct exposure to
+              the traceability culture and reliability standards of regulated domains.
+            </p>
+            <p>
+              Lantana Intelligence LLC is a one-person practice. I work directly with
+              engineering teams — no account managers, no junior staff, no subcontractors.
+            </p>
+          </div>
+          <div>
+            <span class="badge">The Methodology</span>
+            <h2>Why I Started This</h2>
+            <p>
+              The AI coding era creates a specific problem that most teams are not
+              equipped to see: AI generation makes structural decisions silently, at a
+              speed that outpaces every governance model that depends on periodic review.
+              Specification quality becomes the binding constraint that determines
+              whether AI multiplies velocity or chaos.
+            </p>
+            <p>
+              I spent two years researching this problem systematically across three
+              dimensions — development methodology, architecture governance, and
+              verification — producing the three papers below. The consulting practice
+              is the applied extension of that research: working directly with teams
+              to close the gap between where their process is and where it needs to be.
+            </p>
+            <p>
+              The papers are available for review under a non-distribution agreement
+              prior to publication. If you are an engineering leader evaluating this
+              work, contact me.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== PAPERS ===== -->
+    <section class="section section--alt" aria-label="Research papers">
+      <div class="container">
+        <div class="section__header">
+          <h2>The SBR Framework Papers</h2>
+          <p>Three connected papers currently under peer review. Together they form the intellectual foundation of the consulting practice.</p>
+        </div>
+        <div class="cards">
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+            </div>
+            <h3>Waterfall and Agile in the Era of AI Coding</h3>
+            <p>AI shifts the binding constraint from implementation to specification. Neither Waterfall nor Agile ports cleanly into the AI era. The paper identifies the hybrid pattern best-performing teams are converging on: Agile cadence, Waterfall-quality specification, AI implementation.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>
+            </div>
+            <h3>Architecture Governance in the Era of AI Coding</h3>
+            <p>AI makes structural decisions less visible, not less important. The paper proposes a continuous, specification-anchored governance model covering both regulated/safety-critical systems and commercial software with evolving requirements.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+            </div>
+            <h3>TDD, BDD, and the Stratified Behavioral Refinement Framework</h3>
+            <p>Introduces the SBR framework and its central concept: the trust boundary — the provability boundary of the test suite, defining the region within which autonomous AI generation is verifiable. The framework integrates EARS requirements, spec-driven methodology, architecture governance, TDD, and BDD into a directed chain for AI-assisted development.</p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== CORE VALUES ===== -->
+    <section class="section" aria-label="Core values">
+      <div class="container">
+        <div class="section__header">
+          <h2>How I Work</h2>
+          <p>The principles that guide every engagement.</p>
+        </div>
+        <div class="cards">
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </div>
+            <h3>Integrity</h3>
+            <p>Recommendations are evidence-based. If the SBR framework does not address a team's problem, I will say so. Clients deserve honest assessment, not a methodology sale.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+            </div>
+            <h3>Rigor</h3>
+            <p>The SBR framework is grounded in formal verification theory, empirical research, and practitioner evidence. The same intellectual discipline applies to every engagement.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            </div>
+            <h3>Partnership</h3>
+            <p>I work directly alongside the engineers and engineering leaders I engage with — not as a detached advisor delivering slide decks, but as a practitioner embedded in the actual work.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+            </div>
+            <h3>Impact</h3>
+            <p>Success is measured by what changes in how a team works — not by the number of sessions delivered. Every engagement is accountable to outcomes the team can see and verify.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M1 6s1-1 4-1 5 2 8 2 4-1 4-1V22s-1 1-4 1-5-2-8-2-4 1-4 1V6z"/><path d="M1 12s1-1 4-1 5 2 8 2 4-1 4-1"/></svg>
+            </div>
+            <h3>Scope Honesty</h3>
+            <p>This is a one-person practice with a defined methodology focus. I do not offer services I cannot deliver at depth. What I offer, I deliver personally and with full commitment.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 0 20A10 10 0 0 0 12 2z"/><path d="M12 8v4M12 16h.01"/></svg>
+            </div>
+            <h3>Responsibility</h3>
+            <p>AI-assisted development carries real consequences for software quality and team culture. The SBR framework keeps humans accountable for specification and design — by structure, not by hope.</p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== LOCATION ===== -->
+    <section class="section section--alt" aria-label="Location">
+      <div class="container" style="text-align:center; max-width: 680px;">
+        <span class="badge">Location</span>
+        <h2>Vista, California</h2>
+        <p>
+          Lantana Intelligence LLC is based in Vista, California — in San Diego County.
+          Engagements are conducted remotely or on-site depending on the team's needs
+          and location.
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer" aria-label="Site footer">
+    <div class="footer__inner">
+      <div>
+        <p class="footer__brand">Lantana Intelligence LLC</p>
+        <p class="footer__location">Vista, CA</p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <ul class="footer__nav" role="list">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="lantanashare/index.html">LantanaShare</a></li>
+          <li><a href="legal.html">Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="footer__bottom">
+      &copy; 2026 Lantana Intelligence LLC. All rights reserved.
+    </div>
+  </footer>
+
+</body>
+</html>

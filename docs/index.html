@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lantana Intelligence LLC — AI Coding Methodology Consulting</title>
+  <meta name="description" content="Lantana Intelligence LLC helps established engineering teams adopt AI-assisted development with the rigor and methodology it demands. Based in Vista, California." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ===== HEADER / NAV ===== -->
+  <header class="site-header">
+    <nav class="nav" aria-label="Main navigation">
+      <a href="index.html" class="nav__brand">Lantana Intelligence</a>
+      <button class="nav__toggle" aria-label="Toggle navigation" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded')==='true'?'false':'true'); document.getElementById('nav-links').classList.toggle('open');">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__links" id="nav-links" role="list">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="lantanashare/index.html">LantanaShare</a></li>
+        <li><a href="legal.html">Legal</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- ===== HERO ===== -->
+    <section class="hero" aria-label="Hero">
+      <div class="container">
+        <p class="hero__eyebrow">Vista, California</p>
+        <h1>Lantana Intelligence LLC</h1>
+        <p class="hero__tagline">
+          AI coding tools are fast. Most teams are not ready for what that speed
+          exposes — in their specifications, their architecture, and their process.
+          I help established engineering teams get the methodology right.
+        </p>
+        <div class="hero__actions">
+          <a href="about.html" class="btn btn--primary">About &amp; Methodology</a>
+          <a href="lantanashare/index.html" class="btn btn--outline">LantanaShare</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== MISSION ===== -->
+    <section class="mission" aria-label="The problem">
+      <div class="container">
+        <h2>The Methodology Gap</h2>
+        <p>
+          AI coding changes which parts of software development matter. Implementation
+          is no longer the expensive constraint — specification quality is. Teams that
+          import AI tools into existing Agile workflows without changing anything else
+          discover this the hard way: invisible structural drift, accumulated technical
+          debt, and code that looks correct but doesn't realize what was actually intended.
+        </p>
+        <p>
+          My consulting practice is built on three original research papers that examine
+          this problem from three angles — methodology, architecture governance, and
+          verification — and propose a connected framework for addressing it: the
+          <strong>Stratified Behavioral Refinement (SBR) framework</strong>. I work
+          directly with engineering teams to assess their current practices and introduce
+          the discipline that makes AI generation trustworthy.
+        </p>
+      </div>
+    </section>
+
+    <!-- ===== SERVICES ===== -->
+    <section class="section section--alt" aria-label="Consulting services">
+      <div class="container">
+        <div class="section__header">
+          <h2>Consulting Services</h2>
+          <p>Hands-on engagements grounded in the SBR framework and its companion methodology research.</p>
+        </div>
+        <div class="cards">
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+            </div>
+            <h3>AI Workflow Assessment</h3>
+            <p>Evaluate how your team's current development process holds up under AI-assisted development. Identify where specification quality is the bottleneck and where AI is introducing risk you're not yet measuring.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>
+            </div>
+            <h3>Architecture Governance</h3>
+            <p>AI generates structural decisions silently and at speed. Implement continuous, specification-anchored governance that prevents architectural drift before it accumulates sprint by sprint.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+            </div>
+            <h3>SBR Framework Adoption</h3>
+            <p>Introduce the Stratified Behavioral Refinement framework: trust boundary, three-level test pyramid, and BDD grounding proof. A structured chain that makes AI code generation verifiable at every level of implementation.</p>
+          </article>
+
+          <article class="card">
+            <div class="card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            </div>
+            <h3>Team Coaching</h3>
+            <p>Embedded working sessions with your engineering team: specification writing, BDD scenario design, test pyramid construction, and the AI generation discipline that keeps the process honest.</p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== LANTANASHARE OVERVIEW ===== -->
+    <section class="section" aria-label="LantanaShare overview">
+      <div class="container">
+        <div class="two-col">
+          <div>
+            <span class="badge">Side Project</span>
+            <h2>LantanaShare</h2>
+            <p>
+              LantanaShare is a community mobile app for borrowing and lending physical
+              items — tools, sports gear, kitchen appliances, books, and more — within
+              trusted groups of friends. Instead of buying something you'll use once,
+              borrow it from someone in your community.
+            </p>
+            <p>
+              Currently in Phase 1 limited release and approaching MVP. Built using the
+              SBR framework methodology in practice.
+            </p>
+            <a href="lantanashare/index.html" class="btn btn--navy" style="margin-top:0.5rem;">Learn About LantanaShare →</a>
+          </div>
+          <div>
+            <ul class="feature-list">
+              <li>Borrow and lend within trusted friend groups</li>
+              <li>Item request and tracking</li>
+              <li>Community bill-splitting for shared costs</li>
+              <li>Trust-based community governance</li>
+              <li>Transparent borrow history within communities</li>
+              <li>Android mobile app</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer" aria-label="Site footer">
+    <div class="footer__inner">
+      <div>
+        <p class="footer__brand">Lantana Intelligence LLC</p>
+        <p class="footer__location">Vista, CA</p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <ul class="footer__nav" role="list">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="lantanashare/index.html">LantanaShare</a></li>
+          <li><a href="legal.html">Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="footer__bottom">
+      &copy; 2026 Lantana Intelligence LLC. All rights reserved.
+    </div>
+  </footer>
+
+</body>
+</html>

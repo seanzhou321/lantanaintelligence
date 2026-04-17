@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Legal Document — LantanaShare</title>
+  <link rel="stylesheet" href="../../css/style.css" />
+  <script src="content.js"></script>
+  <style>
+    .doc-wrapper {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 5rem;
+    }
+    .doc-back {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.875rem;
+      color: #64748b;
+      text-decoration: none;
+      margin-bottom: 2rem;
+      transition: color 0.15s;
+    }
+    .doc-back:hover { color: #1e293b; }
+    .doc-content h1 {
+      font-size: 1.9rem;
+      font-weight: 700;
+      line-height: 1.25;
+      color: #1e293b;
+      margin-bottom: 0.4rem;
+    }
+    .doc-content h2 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #1e293b;
+      margin: 2.5rem 0 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    .doc-content h3 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #334155;
+      margin: 1.75rem 0 0.5rem;
+    }
+    .doc-content h4 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: #475569;
+      margin: 1.25rem 0 0.4rem;
+    }
+    .doc-content p {
+      font-size: 0.95rem;
+      line-height: 1.75;
+      color: #334155;
+      margin-bottom: 1rem;
+    }
+    .doc-content ul, .doc-content ol {
+      margin: 0.5rem 0 1rem 1.5rem;
+    }
+    .doc-content li {
+      font-size: 0.95rem;
+      line-height: 1.7;
+      color: #334155;
+      margin-bottom: 0.35rem;
+    }
+    .doc-content strong { color: #1e293b; }
+    .doc-content em { color: #475569; font-style: italic; }
+    .doc-content hr {
+      border: none;
+      border-top: 1px solid #e2e8f0;
+      margin: 2rem 0;
+    }
+    .doc-content blockquote {
+      border-left: 3px solid #cbd5e1;
+      padding: 0.75rem 1rem;
+      margin: 1rem 0;
+      background: #f8fafc;
+      border-radius: 0 6px 6px 0;
+      color: #475569;
+      font-size: 0.9rem;
+    }
+    .doc-content code {
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 0.85em;
+      background: #f1f5f9;
+      padding: 0.15em 0.35em;
+      border-radius: 3px;
+      color: #e11d48;
+    }
+    .doc-meta {
+      font-size: 0.85rem;
+      color: #94a3b8;
+      margin-bottom: 2.5rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    .doc-error {
+      padding: 2rem;
+      background: #fef2f2;
+      border: 1px solid #fecaca;
+      border-radius: 8px;
+      color: #991b1b;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <nav class="nav" aria-label="Main navigation">
+      <a href="../../index.html" class="nav__brand">Lantana Intelligence</a>
+      <button class="nav__toggle" aria-label="Toggle navigation" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded')==='true'?'false':'true'); document.getElementById('nav-links').classList.toggle('open');">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__links" id="nav-links" role="list">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../index.html">LantanaShare</a></li>
+        <li><a href="../../legal.html">Legal</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <div class="doc-wrapper">
+      <a href="index.html" class="doc-back">← Legal Documents</a>
+      <div id="doc-content" class="doc-content"></div>
+    </div>
+  </main>
+
+  <footer class="site-footer" aria-label="Site footer">
+    <div class="footer__inner">
+      <div>
+        <p class="footer__brand">Lantana Intelligence LLC</p>
+        <p class="footer__location">Vista, CA</p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <ul class="footer__nav" role="list">
+          <li><a href="../../index.html">Home</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../index.html">LantanaShare</a></li>
+          <li><a href="../../legal.html">Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="footer__bottom">
+      &copy; 2026 Lantana Intelligence LLC. All rights reserved.
+    </div>
+  </footer>
+
+  <script>
+    // Inline markdown-to-HTML renderer — no external dependencies
+    function renderMd(md) {
+      function esc(s) {
+        return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      }
+      function inline(s) {
+        return esc(s)
+          .replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
+          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+          .replace(/\*(.+?)\*/g, '<em>$1</em>')
+          .replace(/`([^`]+)`/g, '<code>$1</code>');
+      }
+
+      var lines = md.split('\n');
+      var out = [];
+      var listType = null;
+      var para = [];
+
+      function flushPara() {
+        if (para.length) {
+          var parts = para.map(function(item) {
+            if (item.endsWith('  ')) { return inline(item.slice(0, -2)) + '<br>'; }
+            return inline(item);
+          });
+          out.push('<p>' + parts.join(' ') + '</p>');
+          para = [];
+        }
+      }
+      function closeList() {
+        if (listType) { out.push('</' + listType + '>'); listType = null; }
+      }
+
+      for (var i = 0; i < lines.length; i++) {
+        var line = lines[i];
+
+        // Heading
+        var hm = line.match(/^(#{1,4})\s+(.+)$/);
+        if (hm) {
+          flushPara(); closeList();
+          var n = hm[1].length;
+          out.push('<h' + n + '>' + inline(hm[2]) + '</h' + n + '>');
+          continue;
+        }
+
+        // Horizontal rule
+        if (/^(-{3,}|\*{3,})\s*$/.test(line)) {
+          flushPara(); closeList();
+          out.push('<hr>');
+          continue;
+        }
+
+        // Blockquote
+        if (/^>\s?/.test(line)) {
+          flushPara(); closeList();
+          out.push('<blockquote>' + inline(line.replace(/^>\s?/, '')) + '</blockquote>');
+          continue;
+        }
+
+        // Unordered list item
+        var ulm = line.match(/^[ \t]*[-*]\s+(.+)$/);
+        if (ulm) {
+          flushPara();
+          if (listType !== 'ul') { closeList(); out.push('<ul>'); listType = 'ul'; }
+          out.push('<li>' + inline(ulm[1]) + '</li>');
+          continue;
+        }
+
+        // Ordered list item
+        var olm = line.match(/^[ \t]*\d+[.)]\s+(.+)$/);
+        if (olm) {
+          flushPara();
+          if (listType !== 'ol') { closeList(); out.push('<ol>'); listType = 'ol'; }
+          out.push('<li>' + inline(olm[1]) + '</li>');
+          continue;
+        }
+
+        // Empty line
+        if (!line.trim()) {
+          flushPara(); closeList();
+          continue;
+        }
+
+        // Regular text — if we were in a list, close it first
+        if (listType) { closeList(); }
+        para.push(line.trimStart());
+      }
+
+      flushPara(); closeList();
+      return out.join('\n');
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      var el = document.getElementById('doc-content');
+      var key = window.location.hash ? window.location.hash.slice(1) : new URLSearchParams(window.location.search).get('f');
+
+      if (!key || !window.__legalDocs || !window.__legalDocs[key]) {
+        el.innerHTML = '<div class="doc-error">Document not found. <a href="index.html">Return to Legal Documents</a></div>';
+        return;
+      }
+
+      el.innerHTML = renderMd(window.__legalDocs[key]);
+
+      // Set browser tab title from the rendered H1
+      var h1 = el.querySelector('h1');
+      if (h1) {
+        document.title = h1.textContent + ' \u2014 LantanaShare';
+        var meta = document.createElement('p');
+        meta.className = 'doc-meta';
+        meta.textContent = 'LantanaShare \u00b7 Lantana Intelligence LLC \u00b7 Effective April 15, 2026';
+        h1.insertAdjacentElement('afterend', meta);
+      }
+    });
+  </script>
+
+</body>
+</html>
