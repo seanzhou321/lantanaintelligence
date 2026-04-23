@@ -1,6 +1,6 @@
 # Terms of Service
 
-**LantanaShare** — Terms of Service
+**MarigoldShare** — Terms of Service
 **Effective Date:** April 15, 2026
 **Last Updated:** April 15, 2026
 
@@ -16,13 +16,13 @@ Here is a brief summary before the full text. Please read the complete Terms bel
 - You must comply with our **Acceptable Use Policy** and **Community Bylaws**.
 - We are **not liable** for damages arising from Item use, rental transactions, or interactions between users.
 - We can **suspend or terminate** your account if you violate these Terms.
-- Disputes between you and LantanaShare are subject to **binding arbitration** (except where prohibited by law).
+- Disputes between you and MarigoldShare are subject to **binding arbitration** (except where prohibited by law).
 
 ---
 
 ## 1. Acceptance of Terms
 
-These Terms of Service ("Terms") are a binding legal agreement between you and **Lantana Intelligence LLC** ("we," "us," or "our"), the operator of **LantanaShare** (the "App" or "Services"). By creating an account, clicking "Sign Up," or otherwise accessing or using the Services, you agree to be bound by these Terms and our **Privacy Policy**, **Cookie Policy**, **Community Bylaws**, **Acceptable Use Policy**, and **Liability Waiver and Disclaimer**, all of which are incorporated herein by reference.
+These Terms of Service ("Terms") are a binding legal agreement between you and **Marigold Intelligence LLC** ("we," "us," or "our"), the operator of **MarigoldShare** (the "App" or "Services"). By creating an account, clicking "Sign Up," or otherwise accessing or using the Services, you agree to be bound by these Terms and our **Privacy Policy**, **Cookie Policy**, **Community Bylaws**, **Acceptable Use Policy**, and **Liability Waiver and Disclaimer**, all of which are incorporated herein by reference.
 
 If you do not agree to these Terms, do not access or use the Services.
 
@@ -54,14 +54,14 @@ We reserve the right to suspend or terminate accounts that violate these Terms o
 
 ## 4. Description of the Services
 
-LantanaShare is a community-based peer-to-peer lending platform that allows users ("Members") to list, discover, and arrange the borrowing and lending of physical Items within trusted local communities. Any Item that can be legally owned and lent between individuals may be listed, subject to the item category rules and replacement cost ceiling in the **Acceptable Use Policy** Section 4. The Services include:
+MarigoldShare is a community-based peer-to-peer lending platform that allows users ("Members") to list, discover, and arrange the borrowing and lending of physical Items within trusted local communities. Any Item that can be legally owned and lent between individuals may be listed, subject to the item category rules and replacement cost ceiling in the **Acceptable Use Policy** Section 4. The Services include:
 
 - Item listings, community membership, in-app messaging, and borrowing and lending coordination.
 - A monthly bill splitting calculation that determines the simplest payment arrangement for Members to settle rental balances within their community.
 - Payment acknowledgment tracking, allowing debtors to confirm payments made and creditors to confirm receipt, all settled directly between Members outside the app.
 - Community dispute resolution tools, governed by the **Community Bylaws**.
 
-LantanaShare is a platform only. We do not own, inspect, insure, or guarantee the condition, safety, or suitability of any Item listed on the platform. We do not process, hold, or transfer payments between Members. All rental payments are settled directly between Members using their mutually agreed-upon payment method. All rental arrangements are solely between the lending Member and the borrowing Member.
+MarigoldShare is a platform only. We do not own, inspect, insure, or guarantee the condition, safety, or suitability of any Item listed on the platform. We do not process, hold, or transfer payments between Members. All rental payments are settled directly between Members using their mutually agreed-upon payment method. All rental arrangements are solely between the lending Member and the borrowing Member.
 
 Items with a declared replacement cost exceeding **$300** may not be listed on the platform. The declared replacement cost entered at the time of listing is binding on the Lender and constitutes the absolute maximum the Lender may recover under any circumstances.
 
@@ -75,7 +75,7 @@ You retain ownership of any content you submit to the Services ("User Content"),
 
 ### 5.2 License to Us
 
-By submitting User Content, you grant LantanaShare a non-exclusive, worldwide, royalty-free, sublicensable, and transferable license to use, host, store, reproduce, modify, display, distribute, and create derivative works from your User Content for the purposes of operating, improving, and promoting the Services.
+By submitting User Content, you grant MarigoldShare a non-exclusive, worldwide, royalty-free, sublicensable, and transferable license to use, host, store, reproduce, modify, display, distribute, and create derivative works from your User Content for the purposes of operating, improving, and promoting the Services.
 
 ### 5.3 Your Representations
 
@@ -89,9 +89,9 @@ Certain content — such as completed transaction records, community reviews, or
 
 ## 6. Rental Transactions
 
-### 6.1 Role of LantanaShare
+### 6.1 Role of MarigoldShare
 
-LantanaShare provides the platform to connect Item owners ("Lenders") and borrowers ("Renters"). We are not a party to any rental transaction and are not responsible for the condition of Items, the conduct of users, or any damages, injuries, or losses arising from rental transactions.
+MarigoldShare provides the platform to connect Item owners ("Lenders") and borrowers ("Renters"). We are not a party to any rental transaction and are not responsible for the condition of Items, the conduct of users, or any damages, injuries, or losses arising from rental transactions.
 
 ### 6.2 Lender Responsibilities
 
@@ -118,7 +118,7 @@ Members acknowledge that where debtors are blocked following unresolved disputes
 
 ### 6.6 Disputes
 
-Disputes between Lenders and Renters, including payment disputes, are handled first by community admins pursuant to the **Community Bylaws**. LantanaShare may, at its sole discretion, assist in resolution but is under no obligation to do so. No dispute resolution outcome may award replacement costs exceeding the Lender's declared replacement cost at the time of listing.
+Disputes between Lenders and Renters, including payment disputes, are handled first by community admins pursuant to the **Community Bylaws**. MarigoldShare may, at its sole discretion, assist in resolution but is under no obligation to do so. No dispute resolution outcome may award replacement costs exceeding the Lender's declared replacement cost at the time of listing.
 
 ---
 
@@ -126,27 +126,27 @@ Disputes between Lenders and Renters, including payment disputes, are handled fi
 
 ### 7.1 Two-Phase Governance Model
 
-LantanaShare operates under a two-phase community governance model. The phase applicable to a community at any given time determines the rights and authorities of Members, admins, super admins, and Lantana Intelligence LLC with respect to that community. The full governance framework is set out in the **Community Bylaws** Article 7. This Section summarizes the key legal implications of each phase for the purposes of these Terms.
+MarigoldShare operates under a two-phase community governance model. The phase applicable to a community at any given time determines the rights and authorities of Members, admins, super admins, and Marigold Intelligence LLC with respect to that community. The full governance framework is set out in the **Community Bylaws** Article 7. This Section summarizes the key legal implications of each phase for the purposes of these Terms.
 
 ### 7.2 Phase 1 — Limited Release
 
-During Phase 1, Lantana Intelligence LLC retains full and sole authority over community creation, admin and super admin appointments, governance decisions, and community dissolution. Members joining Phase 1 communities acknowledge and agree that:
+During Phase 1, Marigold Intelligence LLC retains full and sole authority over community creation, admin and super admin appointments, governance decisions, and community dissolution. Members joining Phase 1 communities acknowledge and agree that:
 
 - Membership in a Phase 1 community does not create any vested rights, property interests, or entitlements to continued membership or community continuity.
-- Lantana Intelligence LLC may dissolve any Phase 1 community at any time, with or without cause, with minimum liability as described in the **Community Bylaws** Article 7.5 and 7.6.
-- Lantana Intelligence LLC's exercise of Phase 1 governance authority, including dissolution, does not give rise to any claim for damages, compensation, or other relief against Lantana Intelligence LLC.
+- Marigold Intelligence LLC may dissolve any Phase 1 community at any time, with or without cause, with minimum liability as described in the **Community Bylaws** Article 7.5 and 7.6.
+- Marigold Intelligence LLC's exercise of Phase 1 governance authority, including dissolution, does not give rise to any claim for damages, compensation, or other relief against Marigold Intelligence LLC.
 - Outstanding payment obligations between Members at the time of dissolution remain personal obligations between those Members and do not extinguish upon dissolution.
-- Admin and super admin appointments in Phase 1 are made at Lantana Intelligence LLC's sole discretion and create no employment, agency, or contractual relationship between appointed Members and Lantana Intelligence LLC.
+- Admin and super admin appointments in Phase 1 are made at Marigold Intelligence LLC's sole discretion and create no employment, agency, or contractual relationship between appointed Members and Marigold Intelligence LLC.
 
 ### 7.3 Phase 2 — General Release
 
-Lantana Intelligence LLC will publish the complete Phase 2 governance framework, including community creation requirements, super admin tier mechanics, and dissolution procedures, no less than **30 days** before the general public release of LantanaShare. Members will be notified of the transition and given the opportunity to review updated terms before Phase 2 takes effect.
+Marigold Intelligence LLC will publish the complete Phase 2 governance framework, including community creation requirements, super admin tier mechanics, and dissolution procedures, no less than **30 days** before the general public release of MarigoldShare. Members will be notified of the transition and given the opportunity to review updated terms before Phase 2 takes effect.
 
 ---
 
 ## 8. Intellectual Property
 
-All content, trademarks, logos, software, and materials provided by LantanaShare (excluding User Content) are owned by or licensed to Lantana Intelligence LLC and are protected by intellectual property laws. You may not copy, modify, distribute, sell, or create derivative works from any LantanaShare materials without our express written consent.
+All content, trademarks, logos, software, and materials provided by MarigoldShare (excluding User Content) are owned by or licensed to Marigold Intelligence LLC and are protected by intellectual property laws. You may not copy, modify, distribute, sell, or create derivative works from any MarigoldShare materials without our express written consent.
 
 ---
 
@@ -158,7 +158,7 @@ You agree to comply with our **Acceptable Use Policy**, which is incorporated in
 
 ## 9. Disclaimer of Warranties
 
-THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE. LantanaShare DOES NOT WARRANT THE ACCURACY, COMPLETENESS, OR RELIABILITY OF ANY TOOL LISTING, BILL SPLITTING CALCULATION, PAYMENT RECORD, OR USER-GENERATED CONTENT.
+THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE. MarigoldShare DOES NOT WARRANT THE ACCURACY, COMPLETENESS, OR RELIABILITY OF ANY TOOL LISTING, BILL SPLITTING CALCULATION, PAYMENT RECORD, OR USER-GENERATED CONTENT.
 
 ---
 
@@ -166,33 +166,33 @@ THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY K
 
 ### 10.1 Exclusion of Damages
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, Lantana Intelligence LLC AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING LOSS OF PROFITS, LOSS OF DATA, LOSS OF GOODWILL, PERSONAL INJURY, PROPERTY DAMAGE, OR SERVICE INTERRUPTION, ARISING OUT OF OR RELATED TO YOUR USE OF THE SERVICES OR ANY RENTAL TRANSACTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, Marigold Intelligence LLC AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING LOSS OF PROFITS, LOSS OF DATA, LOSS OF GOODWILL, PERSONAL INJURY, PROPERTY DAMAGE, OR SERVICE INTERRUPTION, ARISING OUT OF OR RELATED TO YOUR USE OF THE SERVICES OR ANY RENTAL TRANSACTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ### 10.2 Categorical Exclusions
 
-WITHOUT LIMITING THE FOREGOING, Lantana Intelligence LLC IS SPECIFICALLY NOT LIABLE FOR:
+WITHOUT LIMITING THE FOREGOING, Marigold Intelligence LLC IS SPECIFICALLY NOT LIABLE FOR:
 
 - **Service Availability:** Any loss or damage arising from service outages, downtime, interruptions, or delays, whether caused by infrastructure failures, third-party cloud providers, network issues, maintenance, or any other cause within or outside our reasonable control.
 - **Algorithmic and Calculation Errors:** Any loss or damage arising from errors in the bill splitting calculation, payment acknowledgment processing, or account balance records, including errors caused by software defects, incorrect input data, or unforeseen edge cases in the algorithm.
 - **Data Loss:** Any loss or damage arising from loss or corruption of data, including rental records, payment acknowledgment history, or account information, whether caused by system failure, operator error, or third-party infrastructure failure.
-- **Third-Party Infrastructure:** Any loss or damage attributable to the failure, error, or interruption of third-party services on which LantanaShare relies, including cloud hosting, analytics, push notification, or authentication providers.
+- **Third-Party Infrastructure:** Any loss or damage attributable to the failure, error, or interruption of third-party services on which MarigoldShare relies, including cloud hosting, analytics, push notification, or authentication providers.
 - **Item Transactions:** Any loss, injury, property damage, or financial harm arising from any Item lending or borrowing transaction between Members, as further described in the **Liability Waiver and Disclaimer**.
 - **Member Conduct:** Any harm caused by the actions, omissions, representations, or misconduct of any other Member.
-- **Community Governance:** Any loss, harm, or financial impact arising from the exercise of Lantana Intelligence LLC's Phase 1 governance authority, including the dissolution of any Phase 1 community, as described in Section 7.2 and the **Community Bylaws** Article 7.
+- **Community Governance:** Any loss, harm, or financial impact arising from the exercise of Marigold Intelligence LLC's Phase 1 governance authority, including the dissolution of any Phase 1 community, as described in Section 7.2 and the **Community Bylaws** Article 7.
 
 ### 10.3 Operational Error Remediation
 
-In the event of a platform error affecting bill splitting calculations, payment acknowledgment records, or account data, Lantana Intelligence LLC will endeavor to identify and correct the error using available backups, recalculation, and audit trail data. We maintain data backups through our cloud infrastructure provider for this purpose. This commitment reflects our operational practice and goodwill toward our Members. It does not constitute a contractual obligation, does not create any right to damages, and does not limit or waive any other provision of this Section 10.
+In the event of a platform error affecting bill splitting calculations, payment acknowledgment records, or account data, Marigold Intelligence LLC will endeavor to identify and correct the error using available backups, recalculation, and audit trail data. We maintain data backups through our cloud infrastructure provider for this purpose. This commitment reflects our operational practice and goodwill toward our Members. It does not constitute a contractual obligation, does not create any right to damages, and does not limit or waive any other provision of this Section 10.
 
 ### 10.4 Basis of the Bargain
 
-YOU ACKNOWLEDGE THAT LantanaShare IS PROVIDED FREE OF CHARGE AND THAT THE DISCLAIMERS AND EXCLUSIONS OF LIABILITY IN THIS SECTION REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND Lantana Intelligence LLC. THESE PROVISIONS ARE AN ESSENTIAL BASIS OF THE AGREEMENT BETWEEN US. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR LIMITATION OF CERTAIN DAMAGES, SO SOME OF THE ABOVE MAY NOT APPLY TO YOU.
+YOU ACKNOWLEDGE THAT MarigoldShare IS PROVIDED FREE OF CHARGE AND THAT THE DISCLAIMERS AND EXCLUSIONS OF LIABILITY IN THIS SECTION REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND Marigold Intelligence LLC. THESE PROVISIONS ARE AN ESSENTIAL BASIS OF THE AGREEMENT BETWEEN US. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR LIMITATION OF CERTAIN DAMAGES, SO SOME OF THE ABOVE MAY NOT APPLY TO YOU.
 
 ---
 
 ## 11. Indemnification
 
-You agree to indemnify, defend, and hold harmless Lantana Intelligence LLC and its officers, directors, employees, and agents from any claims, damages, losses, liabilities, costs, or expenses (including reasonable attorneys' fees) arising out of: (a) your use of the Services; (b) your User Content; (c) any rental transaction you participate in; (d) your violation of these Terms; or (e) your violation of any third-party right.
+You agree to indemnify, defend, and hold harmless Marigold Intelligence LLC and its officers, directors, employees, and agents from any claims, damages, losses, liabilities, costs, or expenses (including reasonable attorneys' fees) arising out of: (a) your use of the Services; (b) your User Content; (c) any rental transaction you participate in; (d) your violation of these Terms; or (e) your violation of any third-party right.
 
 ---
 
@@ -204,11 +204,11 @@ If you have a dispute with us, please contact us first at **ubertool320@gmail.co
 
 ### 12.2 Binding Arbitration
 
-If informal resolution fails, you and Lantana Intelligence LLC agree to resolve disputes through binding individual arbitration under the rules of American Arbitration Association (AAA), except where prohibited by applicable law. You waive the right to a jury trial and the right to participate in a class action.
+If informal resolution fails, you and Marigold Intelligence LLC agree to resolve disputes through binding individual arbitration under the rules of American Arbitration Association (AAA), except where prohibited by applicable law. You waive the right to a jury trial and the right to participate in a class action.
 
 ### 12.3 Exceptions
 
-Either party may seek relief in small claims court for disputes within that court's jurisdiction. Claims relating to LantanaShare's intellectual property rights are not subject to arbitration.
+Either party may seek relief in small claims court for disputes within that court's jurisdiction. Claims relating to MarigoldShare's intellectual property rights are not subject to arbitration.
 
 ### 12.4 EEA/UK Users
 
@@ -238,7 +238,7 @@ We may update these Terms from time to time. If we make material changes, we wil
 
 ## 16. Contact
 
-**Lantana Intelligence LLC**
+**Marigold Intelligence LLC**
 Email: ubertool320@gmail.com
 
 ---

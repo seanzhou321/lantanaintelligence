@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Legal Document — LantanaShare</title>
+  <title>Legal Document — MarigoldShare</title>
   <link rel="stylesheet" href="../../css/style.css" />
   <script src="content.js"></script>
   <style>
@@ -110,14 +110,14 @@
 
   <header class="site-header">
     <nav class="nav" aria-label="Main navigation">
-      <a href="../../index.html" class="nav__brand">Lantana Intelligence</a>
+      <a href="../../index.html" class="nav__brand">Marigold Intelligence</a>
       <button class="nav__toggle" aria-label="Toggle navigation" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded')==='true'?'false':'true'); document.getElementById('nav-links').classList.toggle('open');">
         <span></span><span></span><span></span>
       </button>
       <ul class="nav__links" id="nav-links" role="list">
         <li><a href="../../index.html">Home</a></li>
         <li><a href="../../about.html">About</a></li>
-        <li><a href="../index.html">LantanaShare</a></li>
+        <li><a href="../index.html">MarigoldShare</a></li>
         <li><a href="../../legal.html">Legal</a></li>
       </ul>
     </nav>
@@ -133,20 +133,20 @@
   <footer class="site-footer" aria-label="Site footer">
     <div class="footer__inner">
       <div>
-        <p class="footer__brand">Lantana Intelligence LLC</p>
+        <p class="footer__brand">Marigold Intelligence LLC</p>
         <p class="footer__location">Vista, CA</p>
       </div>
       <nav aria-label="Footer navigation">
         <ul class="footer__nav" role="list">
           <li><a href="../../index.html">Home</a></li>
           <li><a href="../../about.html">About</a></li>
-          <li><a href="../index.html">LantanaShare</a></li>
+          <li><a href="../index.html">MarigoldShare</a></li>
           <li><a href="../../legal.html">Legal</a></li>
         </ul>
       </nav>
     </div>
     <div class="footer__bottom">
-      &copy; 2026 Lantana Intelligence LLC. All rights reserved.
+      &copy; 2026 Marigold Intelligence LLC. All rights reserved.
     </div>
   </footer>
 
@@ -256,10 +256,10 @@
       // Set browser tab title from the rendered H1
       var h1 = el.querySelector('h1');
       if (h1) {
-        document.title = h1.textContent + ' \u2014 LantanaShare';
+        document.title = h1.textContent + ' \u2014 MarigoldShare';
         var meta = document.createElement('p');
         meta.className = 'doc-meta';
-        meta.textContent = 'LantanaShare \u00b7 Lantana Intelligence LLC \u00b7 Effective April 15, 2026';
+        meta.textContent = 'MarigoldShare \u00b7 Marigold Intelligence LLC \u00b7 Effective April 15, 2026';
         h1.insertAdjacentElement('afterend', meta);
       }
     });

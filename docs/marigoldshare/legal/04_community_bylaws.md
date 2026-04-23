@@ -1,6 +1,6 @@
 # Community Bylaws
 
-**LantanaShare** — Community Bylaws
+**MarigoldShare** — Community Bylaws
 **Effective Date:** April 15, 2026
 **Last Updated:** April 15, 2026
 
@@ -8,7 +8,7 @@
 
 ## Preamble
 
-LantanaShare communities are built on trust. Members are neighbors and friends who share a mutual commitment to strengthening their community by sharing belongings and resources. These Bylaws govern the conduct of all Members within a community on LantanaShare. By joining a community, each Member agrees to be bound by these Bylaws, the LantanaShare Terms of Service, and all other applicable platform policies.
+MarigoldShare communities are built on trust. Members are neighbors and friends who share a mutual commitment to strengthening their community by sharing belongings and resources. These Bylaws govern the conduct of all Members within a community on MarigoldShare. By joining a community, each Member agrees to be bound by these Bylaws, the MarigoldShare Terms of Service, and all other applicable platform policies.
 
 The spirit of these Bylaws is simple: **treat others' property as you would want your own treated**, resolve disagreements with respect and good faith, and help build a community where everyone benefits.
 
@@ -18,7 +18,7 @@ The spirit of these Bylaws is simple: **treat others' property as you would want
 
 ### 1.1 Joining a Community
 
-Prospective members may request to join a community by submitting a request through the LantanaShare Join Request portal to a Community Admin or Super Admin. Upon approval of the request, the user will receive an email containing a unique invitation code. The user must use this invitation code within the App to join the community before the invitation expires. Membership is a privilege, not a right, and may be revoked for violations of these Bylaws.
+Prospective members may request to join a community by submitting a request through the MarigoldShare Join Request portal to a Community Admin or Super Admin. Upon approval of the request, the user will receive an email containing a unique invitation code. The user must use this invitation code within the App to join the community before the invitation expires. Membership is a privilege, not a right, and may be revoked for violations of these Bylaws.
 
 ### 1.2 Member Conduct
 
@@ -31,11 +31,11 @@ All Members agree to:
 
 ### 1.3 Accurate Profiles
 
-Members must maintain accurate profiles, including their name and community affiliation. Misrepresentation of identity is grounds for immediate removal from the community and termination of the LantanaShare account.
+Members must maintain accurate profiles, including their name and community affiliation. Misrepresentation of identity is grounds for immediate removal from the community and termination of the MarigoldShare account.
 
 ### 1.4 Age Requirement
 
-Membership and participation in LantanaShare is restricted to individuals who are at least 18 years of age. Minors may not use the Services under any circumstances, including through a parent's or guardian's account. Account holders warrant that no minor will access or use the Services through their account.
+Membership and participation in MarigoldShare is restricted to individuals who are at least 18 years of age. Minors may not use the Services under any circumstances, including through a parent's or guardian's account. Account holders warrant that no minor will access or use the Services through their account.
 
 ---
 
@@ -43,7 +43,7 @@ Membership and participation in LantanaShare is restricted to individuals who ar
 
 ### 2.1 Permitted Items
 
-LantanaShare is a community lending platform for any physical Item that can be legally owned and lent between individuals. Examples of commonly shared Items include tools, sports and recreational equipment, musical instruments, camping and outdoor gear, gardening equipment, baby and child equipment, party and event supplies, kitchen appliances, books, toys, and games. This list is illustrative and not exhaustive.
+MarigoldShare is a community lending platform for any physical Item that can be legally owned and lent between individuals. Examples of commonly shared Items include tools, sports and recreational equipment, musical instruments, camping and outdoor gear, gardening equipment, baby and child equipment, party and event supplies, kitchen appliances, books, toys, and games. This list is illustrative and not exhaustive.
 
 Items that may not be listed on the platform are defined in the **Acceptable Use Policy** Section 4. If you are unsure whether an Item is permitted, contact ubertool320@gmail.com before listing.
 
@@ -75,7 +75,7 @@ All Items remain the sole property of the Lender at all times. The borrowing arr
 
 ### 2.6 Insurance
 
-LantanaShare does not provide any insurance coverage for Items, injuries, or property damage arising from lending transactions. Members are strongly encouraged to verify whether their homeowner's, renter's, or personal property insurance covers Items they lend out or borrow. Many standard policies exclude items lent to others or borrowed from third parties. Members should seek their own insurance and legal advice regarding their specific situation.
+MarigoldShare does not provide any insurance coverage for Items, injuries, or property damage arising from lending transactions. Members are strongly encouraged to verify whether their homeowner's, renter's, or personal property insurance covers Items they lend out or borrow. Many standard policies exclude items lent to others or borrowed from third parties. Members should seek their own insurance and legal advice regarding their specific situation.
 
 ---
 
@@ -132,7 +132,7 @@ All Members must engage with each other in good faith. This includes honest comm
 
 ### 4.2 Prohibited Behavior
 
-The following conduct is strictly prohibited and may result in removal from the community and/or termination of the LantanaShare account:
+The following conduct is strictly prohibited and may result in removal from the community and/or termination of the MarigoldShare account:
 
 - Harassment, intimidation, threats, or abusive communication toward any Member.
 - Fraudulent listings or misrepresentation of Item condition, ownership, or declared replacement cost.
@@ -181,7 +181,7 @@ A payment dispute can be resolved in three ways:
 
 If a payment dispute cannot be resolved between the parties, admin and/or super admin intervention is required as described in Article 6. If mediation cannot achieve a graceful resolution, a forced resolution will be imposed by the app at the end of the month.
 
-> **Potential Future Feature — Non-Binding:** Lantana Intelligence LLC is considering allowing super admins to create a replacement dispute targeted at a specific underlying rental transaction when a debtor makes partial payment covering all other transactions in the bill. This would allow the original bill splitting dispute to be resolved for the settled portion, with a new, more focused dispute addressing only the contested rental. This feature is under consideration and is provided as informational context only. Lantana Intelligence LLC makes no commitment to implement it as described or at all.
+> **Potential Future Feature — Non-Binding:** Marigold Intelligence LLC is considering allowing super admins to create a replacement dispute targeted at a specific underlying rental transaction when a debtor makes partial payment covering all other transactions in the bill. This would allow the original bill splitting dispute to be resolved for the settled portion, with a new, more focused dispute addressing only the contested rental. This feature is under consideration and is provided as informational context only. Marigold Intelligence LLC makes no commitment to implement it as described or at all.
 
 ### 5.6 Forced Resolution Outcomes
 
@@ -213,7 +213,7 @@ When a debtor is blocked following a forced resolution, their unpaid debt remain
 
 If faulty debtors accumulate over time — which may occur in any community of meaningful size — the total redistributed credit can grow. Active Members in good standing progressively absorb a larger share of the collective unpaid balance. Over time, if unresolved blocked accounts are not addressed, the accumulated redistributed credit may reach a level that becomes material for active Members.
 
-**What this means for Members:** By joining a community and participating in bill splitting, each Member acknowledges and accepts that they may bear a proportional share of unpaid credits from blocked debtors as part of how the bill splitting system operates. This is not a fee charged by LantanaShare — it is an inherent characteristic of how community-wide net settlement works when some Members do not fulfill their obligations.
+**What this means for Members:** By joining a community and participating in bill splitting, each Member acknowledges and accepts that they may bear a proportional share of unpaid credits from blocked debtors as part of how the bill splitting system operates. This is not a fee charged by MarigoldShare — it is an inherent characteristic of how community-wide net settlement works when some Members do not fulfill their obligations.
 
 **What admins and super admins should do:** The community admin team should actively monitor the accumulation of blocked accounts and unresolved disputes. Admins are strongly encouraged to:
 
@@ -224,7 +224,7 @@ If faulty debtors accumulate over time — which may occur in any community of m
 
 The health of the bill splitting system depends on active, good-faith community governance. Admins who allow unresolved blocked accounts to accumulate indefinitely risk eroding the financial fairness of the community for Members in good standing.
 
-**LantanaShare's role:** LantanaShare provides the platform and calculation tools. Lantana Intelligence LLC is not responsible for unpaid credits between Members, redistributed balances arising from blocked accounts, or the financial impact on active Members of unresolved disputes. These outcomes are inherent to the community-based model and are accepted by all Members as a condition of participation.
+**MarigoldShare's role:** MarigoldShare provides the platform and calculation tools. Marigold Intelligence LLC is not responsible for unpaid credits between Members, redistributed balances arising from blocked accounts, or the financial impact on active Members of unresolved disputes. These outcomes are inherent to the community-based model and are accepted by all Members as a condition of participation.
 
 ---
 
@@ -243,7 +243,7 @@ Community Admins have full authority to:
 - Issue warnings to Members who violate these Bylaws.
 - Suspend or remove Members from the community for serious or repeated violations.
 
-Admin decisions on disputes are **final and binding at the community level**. Members who disagree with an admin decision may escalate the matter to LantanaShare support, but LantanaShare is not obligated to reverse a community admin's decision except where it conflicts with applicable law or the platform's Terms of Service.
+Admin decisions on disputes are **final and binding at the community level**. Members who disagree with an admin decision may escalate the matter to MarigoldShare support, but MarigoldShare is not obligated to reverse a community admin's decision except where it conflicts with applicable law or the platform's Terms of Service.
 
 ### 6.3 Admin Impartiality
 
@@ -255,7 +255,7 @@ Admins must recuse themselves from any dispute in which they have a personal int
 
 ### 7.1 Overview
 
-LantanaShare operates under a two-phase governance model. The phase applicable to each community determines how that community is created, governed, and dissolved, and what rights and authorities apply to Members, admins, super admins, and Lantana Intelligence LLC respectively. By joining any LantanaShare community, Members acknowledge and accept the governance phase under which that community operates at the time of joining.
+MarigoldShare operates under a two-phase governance model. The phase applicable to each community determines how that community is created, governed, and dissolved, and what rights and authorities apply to Members, admins, super admins, and Marigold Intelligence LLC respectively. By joining any MarigoldShare community, Members acknowledge and accept the governance phase under which that community operates at the time of joining.
 
 ---
 
@@ -263,38 +263,38 @@ LantanaShare operates under a two-phase governance model. The phase applicable t
 
 **7.2 Scope of Phase 1**
 
-Phase 1 applies to all communities created during the initial limited release of LantanaShare. Phase 1 communities are created solely by Lantana Intelligence LLC and are available by invitation only. Lantana Intelligence LLC will designate communities as operating under Phase 1 governance within the app. Members joining Phase 1 communities acknowledge they are participating in a limited release under direct platform governance, and that the governance framework is subject to change prior to general public release.
+Phase 1 applies to all communities created during the initial limited release of MarigoldShare. Phase 1 communities are created solely by Marigold Intelligence LLC and are available by invitation only. Marigold Intelligence LLC will designate communities as operating under Phase 1 governance within the app. Members joining Phase 1 communities acknowledge they are participating in a limited release under direct platform governance, and that the governance framework is subject to change prior to general public release.
 
-**7.3 Lantana Intelligence LLC Authority in Phase 1**
+**7.3 Marigold Intelligence LLC Authority in Phase 1**
 
-During Phase 1, Lantana Intelligence LLC retains full and sole authority over all aspects of community governance, including:
+During Phase 1, Marigold Intelligence LLC retains full and sole authority over all aspects of community governance, including:
 
 - Creating and naming communities.
 - Determining community membership eligibility and approving or rejecting membership requests.
 - Appointing, promoting, demoting, and removing admins and super admins at its sole discretion, with or without cause and without notice.
 - Modifying community governance structures, rules, and membership at any time.
-- Suspending or removing any Member from a community for any reason at Lantana Intelligence LLC's sole discretion.
+- Suspending or removing any Member from a community for any reason at Marigold Intelligence LLC's sole discretion.
 - Dissolving any Phase 1 community at any time, for any reason, as described in Article 7.5.
 
 **7.4 Admin and Super Admin Roles in Phase 1**
 
-Lantana Intelligence LLC may appoint Members as admins or super admins within Phase 1 communities to assist with day-to-day community management. These appointments are made at Lantana Intelligence LLC's sole discretion and may be revoked at any time without cause or notice. Admins and super admins in Phase 1 communities exercise their authority on behalf of and subject to the direction of Lantana Intelligence LLC. Their authority does not extend beyond what Lantana Intelligence LLC has expressly delegated, and Lantana Intelligence LLC may override, reverse, or supersede any admin or super admin decision at its sole discretion.
+Marigold Intelligence LLC may appoint Members as admins or super admins within Phase 1 communities to assist with day-to-day community management. These appointments are made at Marigold Intelligence LLC's sole discretion and may be revoked at any time without cause or notice. Admins and super admins in Phase 1 communities exercise their authority on behalf of and subject to the direction of Marigold Intelligence LLC. Their authority does not extend beyond what Marigold Intelligence LLC has expressly delegated, and Marigold Intelligence LLC may override, reverse, or supersede any admin or super admin decision at its sole discretion.
 
-Admin and super admin roles in Phase 1 do not create any employment, agency, or contractual relationship between the appointed Member and Lantana Intelligence LLC. Appointed admins and super admins serve voluntarily and receive no compensation from Lantana Intelligence LLC for their governance activities.
+Admin and super admin roles in Phase 1 do not create any employment, agency, or contractual relationship between the appointed Member and Marigold Intelligence LLC. Appointed admins and super admins serve voluntarily and receive no compensation from Marigold Intelligence LLC for their governance activities.
 
 **7.5 Phase 1 Community Dissolution**
 
-Lantana Intelligence LLC reserves the right to dissolve any Phase 1 community at any time, with or without cause, including but not limited to the following circumstances:
+Marigold Intelligence LLC reserves the right to dissolve any Phase 1 community at any time, with or without cause, including but not limited to the following circumstances:
 
 - The community is being used for illegal activity or in violation of the Acceptable Use Policy or Terms of Service.
-- The community's continued operation creates legal, regulatory, or reputational risk to Lantana Intelligence LLC.
-- The community has been inactive below a threshold determined by Lantana Intelligence LLC at its sole discretion.
-- Lantana Intelligence LLC determines that dissolution is in the best interest of the platform or its Members.
-- Lantana Intelligence LLC transitions from Phase 1 to Phase 2 governance.
+- The community's continued operation creates legal, regulatory, or reputational risk to Marigold Intelligence LLC.
+- The community has been inactive below a threshold determined by Marigold Intelligence LLC at its sole discretion.
+- Marigold Intelligence LLC determines that dissolution is in the best interest of the platform or its Members.
+- Marigold Intelligence LLC transitions from Phase 1 to Phase 2 governance.
 
 **7.6 Dissolution Process and Member Protections**
 
-Where operationally feasible and where dissolution is not required on an emergency basis, Lantana Intelligence LLC will endeavor to:
+Where operationally feasible and where dissolution is not required on an emergency basis, Marigold Intelligence LLC will endeavor to:
 
 - Provide Members with at least **14 days** advance notice of a planned community dissolution via email and/or in-app notification.
 - Complete or close any active rental agreements before dissolution takes effect.
@@ -302,14 +302,14 @@ Where operationally feasible and where dissolution is not required on an emergen
 
 Members acknowledge and agree that:
 
-- Lantana Intelligence LLC is not liable for any losses, damages, inconvenience, or financial harm arising from the dissolution of a Phase 1 community, whether planned or emergency.
+- Marigold Intelligence LLC is not liable for any losses, damages, inconvenience, or financial harm arising from the dissolution of a Phase 1 community, whether planned or emergency.
 - Outstanding payment obligations between Members that exist at the time of dissolution remain the personal obligations of the individual Members involved and do not extinguish upon dissolution.
 - Unresolved disputes at the time of dissolution may not be adjudicated through the platform after dissolution is complete. Members with unresolved disputes must pursue resolution directly between themselves or through applicable legal processes.
-- Lantana Intelligence LLC will make reasonable efforts to provide Members with access to their transaction history and account records for a period of **30 days** following dissolution to assist with any outstanding personal settlements.
+- Marigold Intelligence LLC will make reasonable efforts to provide Members with access to their transaction history and account records for a period of **30 days** following dissolution to assist with any outstanding personal settlements.
 
 **7.7 No Vested Rights in Phase 1**
 
-Membership in a Phase 1 community does not create any vested rights, property interests, or entitlements. Members have no right to continued community membership, continued access to a specific community, or continuation of any community. Lantana Intelligence LLC's exercise of its governance authority under Phase 1, including dissolution, does not give rise to any claim for damages, compensation, or other relief against Lantana Intelligence LLC.
+Membership in a Phase 1 community does not create any vested rights, property interests, or entitlements. Members have no right to continued community membership, continued access to a specific community, or continuation of any community. Marigold Intelligence LLC's exercise of its governance authority under Phase 1, including dissolution, does not give rise to any claim for damages, compensation, or other relief against Marigold Intelligence LLC.
 
 ---
 
@@ -317,19 +317,19 @@ Membership in a Phase 1 community does not create any vested rights, property in
 
 **7.8 Transition to Phase 2**
 
-Phase 2 governance will apply to communities created after Lantana Intelligence LLC publicly launches the general release of LantanaShare. Lantana Intelligence LLC will publish the complete Phase 2 governance framework — including community creation requirements, super admin tier mechanics, peer governance and demotion processes, and detailed dissolution procedures — no less than **30 days** before Phase 2 launches.
+Phase 2 governance will apply to communities created after Marigold Intelligence LLC publicly launches the general release of MarigoldShare. Marigold Intelligence LLC will publish the complete Phase 2 governance framework — including community creation requirements, super admin tier mechanics, peer governance and demotion processes, and detailed dissolution procedures — no less than **30 days** before Phase 2 launches.
 
 Members of existing Phase 1 communities will be notified of the transition to Phase 2 governance and given the opportunity to review updated terms. Continued participation in any community after the Phase 2 effective date constitutes acceptance of the updated governance framework.
 
 **7.9 Phase 2 Governance Principles**
 
-While the full Phase 2 framework will be published prior to general release, Lantana Intelligence LLC commits that the Phase 2 governance framework will:
+While the full Phase 2 framework will be published prior to general release, Marigold Intelligence LLC commits that the Phase 2 governance framework will:
 
 - Define a super admin role with authority to promote and demote admins and to elevate admins to super admin status within their community.
 - Establish a clear process for community creation, including any eligibility or endorsement requirements.
 - Define the conditions and process for voluntary community dissolution by super admins.
-- Define the conditions and process under which Lantana Intelligence LLC may dissolve a community, with appropriate Member protections.
-- Establish a process for Lantana Intelligence LLC to remove admins or super admins who violate platform policies.
+- Define the conditions and process under which Marigold Intelligence LLC may dissolve a community, with appropriate Member protections.
+- Establish a process for Marigold Intelligence LLC to remove admins or super admins who violate platform policies.
 - Provide Members with meaningful notice before material governance changes take effect.
 
 ---
@@ -338,7 +338,7 @@ While the full Phase 2 framework will be published prior to general release, Lan
 
 ### 8.1 Appointment of Admins
 
-Each community must have at least one Super Admin. In Phase 1 communities, super admins are appointed by Lantana Intelligence LLC. In Phase 2 communities, super admins may be founders of the community or Members elected or appointed by existing super admins. A Super Admin can appoint other members as admins or demote admins to members. 
+Each community must have at least one Super Admin. In Phase 1 communities, super admins are appointed by Marigold Intelligence LLC. In Phase 2 communities, super admins may be founders of the community or Members elected or appointed by existing super admins. A Super Admin can appoint other members as admins or demote admins to members. 
 
 ### 8.2 Super Admin and Admin Duties
 
@@ -352,21 +352,21 @@ Super Admins and Admins are responsible for:
 
 ### 8.3 Admin Limitations
 
-Admins and Super Admins do not have authority to modify the LantanaShare Terms of Service, Privacy Policy, or any platform-level policies. Admins/Super Admins act on behalf of the community, not on behalf of Lantana Intelligence LLC. Admins/Super Admins may not award replacement costs exceeding the declared replacement cost ceiling established in Article 2.3. In Phase 1 communities, admins/super admins act subject to the overriding authority of Lantana Intelligence LLC as described in Article 7.3.
+Admins and Super Admins do not have authority to modify the MarigoldShare Terms of Service, Privacy Policy, or any platform-level policies. Admins/Super Admins act on behalf of the community, not on behalf of Marigold Intelligence LLC. Admins/Super Admins may not award replacement costs exceeding the declared replacement cost ceiling established in Article 2.3. In Phase 1 communities, admins/super admins act subject to the overriding authority of Marigold Intelligence LLC as described in Article 7.3.
 
 ---
 
 ## Article 9 — Amendments
 
-These Bylaws may be updated by LantanaShare from time to time to reflect changes in platform policies, legal requirements, or community best practices. Members will be notified of material changes via in-app notification. Continued use of the community following notification constitutes acceptance of the updated Bylaws.
+These Bylaws may be updated by MarigoldShare from time to time to reflect changes in platform policies, legal requirements, or community best practices. Members will be notified of material changes via in-app notification. Continued use of the community following notification constitutes acceptance of the updated Bylaws.
 
-Individual communities may establish additional local rules, provided they do not conflict with these Bylaws or the LantanaShare Terms of Service.
+Individual communities may establish additional local rules, provided they do not conflict with these Bylaws or the MarigoldShare Terms of Service.
 
 ---
 
 ## Article 10 — Acknowledgment
 
-By joining a community on LantanaShare, you acknowledge that you have read, understood, and agreed to be bound by these Community Bylaws, including the governance phase framework in Article 7 applicable to the community you are joining.
+By joining a community on MarigoldShare, you acknowledge that you have read, understood, and agreed to be bound by these Community Bylaws, including the governance phase framework in Article 7 applicable to the community you are joining.
 
 ---
 

@@ -1,19 +1,19 @@
-/* LantanaShare legal document content — embedded for offline/static rendering */
+/* MarigoldShare legal document content — embedded for offline/static rendering */
 window.__legalDocs = {};
 
 window.__legalDocs['00_user_agreement_and_consent.md'] = `# User Agreement and Consent
 
-**LantanaShare** — Account Creation Agreement  
+**MarigoldShare** — Account Creation Agreement  
 **Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
 ---
 
-## Welcome to LantanaShare
+## Welcome to MarigoldShare
 
-By creating an account, you are entering into a legally binding agreement with **Lantana Intelligence LLC**. Please read this User Agreement carefully before proceeding.
+By creating an account, you are entering into a legally binding agreement with **Marigold Intelligence LLC**. Please read this User Agreement carefully before proceeding.
 
-This Agreement governs your use of LantanaShare and incorporates all of our legal policies. By completing the consent checkboxes and clicking "Create Account" below, you acknowledge that you have read, understood, and agree to be bound by this Agreement and all incorporated policies.
+This Agreement governs your use of MarigoldShare and incorporates all of our legal policies. By completing the consent checkboxes and clicking "Create Account" below, you acknowledge that you have read, understood, and agree to be bound by this Agreement and all incorporated policies.
 
 ---
 
@@ -29,11 +29,11 @@ By creating an account, you agree to the following documents, each of which is i
 
 4. **Community Bylaws** — Rules governing conduct within your community, including Item listings, rental obligations, replacement cost rules, payment settlements, and dispute resolution by community admins. The Bylaws also describe the Phase 1 governance framework under which the platform currently operates.
 
-5. **Liability Waiver and Disclaimer** — Your acknowledgment and assumption of risks associated with Item lending and borrowing, and release of LantanaShare from liability for injuries, damages, or losses.
+5. **Liability Waiver and Disclaimer** — Your acknowledgment and assumption of risks associated with Item lending and borrowing, and release of MarigoldShare from liability for injuries, damages, or losses.
 
 6. **Acceptable Use Policy** — Permitted and prohibited Item categories, conduct rules, and platform integrity requirements.
 
-7. **End User License Agreement (EULA)** — License terms for use of the LantanaShare software, third-party service disclosures, and protection of our intellectual property.
+7. **End User License Agreement (EULA)** — License terms for use of the MarigoldShare software, third-party service disclosures, and protection of our intellectual property.
 
 **You can access the full text of each document at any time in the app under Settings > Legal.**
 
@@ -49,13 +49,13 @@ You must be at least **18 years old** to create an account. You are responsible 
 
 ### Item Sharing and Rentals
 
-LantanaShare is a community lending platform for any physical Item that can be legally owned and lent between individuals — including tools, sports equipment, musical instruments, camping gear, toys, games, baby equipment, and more. Items with a declared replacement cost exceeding **$300** may not be listed on the platform.
+MarigoldShare is a community lending platform for any physical Item that can be legally owned and lent between individuals — including tools, sports equipment, musical instruments, camping gear, toys, games, baby equipment, and more. Items with a declared replacement cost exceeding **$300** may not be listed on the platform.
 
 As a **Lender**, you agree to list only Items you own or are authorized to lend, accurately describe their condition, declare an honest replacement cost not exceeding $300, and honor confirmed lending agreements. The replacement cost you declare at the time of listing is the **maximum you may recover under any circumstances**, regardless of the Item's actual market value.
 
 As a **Renter**, you agree to use Items safely and for their intended purposes, return them on time and in good condition, pay agreed rental costs promptly, and pay replacement costs up to the Lender's declared replacement cost if an Item is lost, stolen, or damaged beyond normal wear.
 
-**LantanaShare is a platform only.** We do not own, inspect, insure, or guarantee any Items. All rental arrangements are solely between community Members. We do not process, hold, or transfer payments — all payments are settled directly between Members.
+**MarigoldShare is a platform only.** We do not own, inspect, insure, or guarantee any Items. All rental arrangements are solely between community Members. We do not process, hold, or transfer payments — all payments are settled directly between Members.
 
 ### Financial Settlements
 
@@ -69,19 +69,19 @@ At the end of each month, the app calculates net debts and credits among Members
 
 ### Liability and Risk
 
-**Item lending and borrowing involves risk.** You assume all risk of injury, property damage, or financial loss when lending or borrowing Items. You release LantanaShare from liability for injuries, damages, disputes, or losses arising from Item transactions. LantanaShare provides no warranty regarding the condition, safety, or suitability of any Item. See the **Liability Waiver and Disclaimer** for full details.
+**Item lending and borrowing involves risk.** You assume all risk of injury, property damage, or financial loss when lending or borrowing Items. You release MarigoldShare from liability for injuries, damages, disputes, or losses arising from Item transactions. MarigoldShare provides no warranty regarding the condition, safety, or suitability of any Item. See the **Liability Waiver and Disclaimer** for full details.
 
 ### Dispute Resolution
 
-Disputes between Members about Item transactions or payments are resolved first through informal discussion, then by community admins if not resolved within 5 days, with a decision rendered within 14 days of submission. Either party may escalate an admin decision to LantanaShare support. Disputes between you and LantanaShare directly are subject to **binding individual arbitration** and you waive the right to a jury trial or class action (except where prohibited by law). See Section 3 for the specific consent items and the **Terms of Service** for full details.
+Disputes between Members about Item transactions or payments are resolved first through informal discussion, then by community admins if not resolved within 5 days, with a decision rendered within 14 days of submission. Either party may escalate an admin decision to MarigoldShare support. Disputes between you and MarigoldShare directly are subject to **binding individual arbitration** and you waive the right to a jury trial or class action (except where prohibited by law). See Section 3 for the specific consent items and the **Terms of Service** for full details.
 
 ### Platform Governance — Phase 1 Limited Release
 
-You are joining LantanaShare during its **limited initial release (Phase 1)**. During Phase 1, Lantana Intelligence LLC retains full and sole authority over community creation, admin and super admin appointments, governance decisions, and community dissolution. Community membership during Phase 1 does not create any vested rights or entitlement to continued access. Lantana Intelligence LLC may dissolve any Phase 1 community at any time, with or without cause, with minimum liability. Where feasible, 14 days' advance notice will be given before planned dissolution. A full Phase 2 governance framework will be published at least 30 days before general public release. See Section 3 and the **Community Bylaws** Article 7 for full details.
+You are joining MarigoldShare during its **limited initial release (Phase 1)**. During Phase 1, Marigold Intelligence LLC retains full and sole authority over community creation, admin and super admin appointments, governance decisions, and community dissolution. Community membership during Phase 1 does not create any vested rights or entitlement to continued access. Marigold Intelligence LLC may dissolve any Phase 1 community at any time, with or without cause, with minimum liability. Where feasible, 14 days' advance notice will be given before planned dissolution. A full Phase 2 governance framework will be published at least 30 days before general public release. See Section 3 and the **Community Bylaws** Article 7 for full details.
 
 ### Secure Account Authentication
 
-LantanaShare uses **email and password authentication** to verify your identity. Your password is transmitted only over a TLS-encrypted connection and is stored only as a cryptographic hash on our servers — your plaintext password is never stored. Upon successful login, the app receives a short-lived session token (JWT) that authorizes your requests, plus a refresh token stored securely on your device. Tokens expire automatically.
+MarigoldShare uses **email and password authentication** to verify your identity. Your password is transmitted only over a TLS-encrypted connection and is stored only as a cryptographic hash on our servers — your plaintext password is never stored. Upon successful login, the app receives a short-lived session token (JWT) that authorizes your requests, plus a refresh token stored securely on your device. Tokens expire automatically.
 
 ---
 
@@ -95,8 +95,8 @@ Each consent below requires a **separate checkbox**. Please read each item caref
 
 - I consent to the collection, use, and sharing of my personal information as described in the **Privacy Policy**.
 - I understand that my profile, Item listings, and community activity will be visible to other Members of my community.
-- I understand that LantanaShare uses third-party service providers including Google Firebase Cloud Messaging for push notifications and Google Workspace for email delivery, and that my data may be processed by these providers as described in the Privacy Policy.
-- I understand that LantanaShare does not sell my personal information and does not currently share it with advertising networks.
+- I understand that MarigoldShare uses third-party service providers including Google Firebase Cloud Messaging for push notifications and Google Workspace for email delivery, and that my data may be processed by these providers as described in the Privacy Policy.
+- I understand that MarigoldShare does not sell my personal information and does not currently share it with advertising networks.
 
 ---
 
@@ -111,15 +111,15 @@ Each consent below requires a **separate checkbox**. Please read each item caref
 ### ☐ Cookies and Device Technologies
 
 - I consent to the use of session tokens, device identifiers, push notification tokens (including Firebase Cloud Messaging tokens), analytics SDKs, and similar technologies as described in the **Cookie Policy** for app functionality, analytics, crash reporting, and push notification delivery.
-- I understand that LantanaShare does not use advertising identifiers such as IDFA or GAID.
+- I understand that MarigoldShare does not use advertising identifiers such as IDFA or GAID.
 
 ---
 
 ### ☐ Assumption of Risk and Liability Waiver
 
-- **I acknowledge and assume all risks** associated with lending and borrowing Items through LantanaShare, including the risk of physical injury, property damage, and financial loss.
-- **I release and waive any claims** against Lantana Intelligence LLC, its officers, directors, employees, and agents for any injuries, damages, or losses arising from my use of the app or participation in Item transactions, except to the extent caused by gross negligence or willful misconduct.
-- I understand that certain Items — particularly tools, equipment, and machinery — can be inherently dangerous, and that LantanaShare does not inspect, certify, insure, or guarantee the safety or condition of any Item.
+- **I acknowledge and assume all risks** associated with lending and borrowing Items through MarigoldShare, including the risk of physical injury, property damage, and financial loss.
+- **I release and waive any claims** against Marigold Intelligence LLC, its officers, directors, employees, and agents for any injuries, damages, or losses arising from my use of the app or participation in Item transactions, except to the extent caused by gross negligence or willful misconduct.
+- I understand that certain Items — particularly tools, equipment, and machinery — can be inherently dangerous, and that MarigoldShare does not inspect, certify, insure, or guarantee the safety or condition of any Item.
 - I understand that Items are limited to a declared replacement cost of **$300** and that the declared replacement cost is the maximum a Lender may recover under any circumstances.
 
 ---
@@ -137,11 +137,11 @@ Each consent below requires a **separate checkbox**. Please read each item caref
 
 ### ☐ Phase 1 Platform Governance
 
-- I acknowledge that I am joining LantanaShare during its **limited initial release (Phase 1)** and that the platform is currently operating under direct Lantana Intelligence LLC governance.
-- I understand and accept that **Lantana Intelligence LLC retains full and sole authority** over community creation, admin and super admin appointments, governance decisions, and the dissolution of communities during Phase 1, with or without cause and with minimum liability.
-- I understand that **community membership does not create any vested rights**, property interests, or entitlement to continued community access, and that dissolution of a community does not give rise to any claim for damages or compensation against Lantana Intelligence LLC.
-- I understand that where feasible, Lantana Intelligence LLC will provide at least **14 days' advance notice** before planned community dissolution, and will endeavor to complete a final bill splitting cycle before dissolution takes effect. I acknowledge that in emergency circumstances, dissolution may occur without advance notice.
-- I understand that a complete Phase 2 governance framework will be published at least **30 days before** LantanaShare's general public release.
+- I acknowledge that I am joining MarigoldShare during its **limited initial release (Phase 1)** and that the platform is currently operating under direct Marigold Intelligence LLC governance.
+- I understand and accept that **Marigold Intelligence LLC retains full and sole authority** over community creation, admin and super admin appointments, governance decisions, and the dissolution of communities during Phase 1, with or without cause and with minimum liability.
+- I understand that **community membership does not create any vested rights**, property interests, or entitlement to continued community access, and that dissolution of a community does not give rise to any claim for damages or compensation against Marigold Intelligence LLC.
+- I understand that where feasible, Marigold Intelligence LLC will provide at least **14 days' advance notice** before planned community dissolution, and will endeavor to complete a final bill splitting cycle before dissolution takes effect. I acknowledge that in emergency circumstances, dissolution may occur without advance notice.
+- I understand that a complete Phase 2 governance framework will be published at least **30 days before** MarigoldShare's general public release.
 
 ---
 
@@ -149,7 +149,7 @@ Each consent below requires a **separate checkbox**. Please read each item caref
 
 *Please read this section carefully. It affects your legal rights.*
 
-- I agree to resolve any dispute with LantanaShare or Lantana Intelligence LLC through **binding individual arbitration** rather than in court, as described in the **Terms of Service**.
+- I agree to resolve any dispute with MarigoldShare or Marigold Intelligence LLC through **binding individual arbitration** rather than in court, as described in the **Terms of Service**.
 - **I waive my right to a jury trial** in connection with any such dispute.
 - **I waive my right to participate in a class action lawsuit** or class-wide arbitration in connection with any such dispute.
 - I understand that this waiver does not apply to residents of the EEA or UK, and may not apply in other jurisdictions where such waivers are prohibited by applicable law.
@@ -159,7 +159,7 @@ Each consent below requires a **separate checkbox**. Please read each item caref
 
 ### ☐ Electronic Communications and Notices
 
-- I consent to receive all agreements, notices, disclosures, and other communications from LantanaShare electronically, including via email, push notification, or posting within the app.
+- I consent to receive all agreements, notices, disclosures, and other communications from MarigoldShare electronically, including via email, push notification, or posting within the app.
 - I understand that this consent satisfies any legal requirement that such communications be in writing.
 
 ---
@@ -176,11 +176,11 @@ If you are a California resident, you have additional privacy rights under the C
 - Correct inaccurate personal information we hold about you.
 - Opt out of the "sale" or "sharing" of your personal information for cross-context behavioral advertising.
 
-**Important:** LantanaShare does not currently sell or share your personal information for cross-context behavioral advertising. The opt-out right listed above is therefore not currently applicable. If this changes in the future, we will provide a conspicuous opt-out mechanism and notify you before any such sharing begins.
+**Important:** MarigoldShare does not currently sell or share your personal information for cross-context behavioral advertising. The opt-out right listed above is therefore not currently applicable. If this changes in the future, we will provide a conspicuous opt-out mechanism and notify you before any such sharing begins.
 
 You can exercise your privacy rights through your account settings or by contacting **ubertool320@gmail.com**.
 
-California residents also have the right to receive information about any financial incentives offered in connection with your personal information. LantanaShare does not currently offer financial incentives in exchange for personal information.
+California residents also have the right to receive information about any financial incentives offered in connection with your personal information. MarigoldShare does not currently offer financial incentives in exchange for personal information.
 
 ### Washington State Residents
 
@@ -190,8 +190,8 @@ If you are a Washington state resident, you have additional privacy rights under
 - Request correction of inaccurate personal information.
 - Request deletion of your personal information.
 - Obtain a portable copy of your personal information.
-- Opt out of the sale of your personal information (note: LantanaShare does not sell personal information).
-- Opt out of processing for purposes of targeted advertising (note: LantanaShare does not currently conduct targeted advertising).
+- Opt out of the sale of your personal information (note: MarigoldShare does not sell personal information).
+- Opt out of processing for purposes of targeted advertising (note: MarigoldShare does not currently conduct targeted advertising).
 - Opt out of profiling used to make decisions with legal or similarly significant effects on you.
 
 You can exercise these rights by contacting **ubertool320@gmail.com**.
@@ -220,13 +220,13 @@ By creating an account, you represent and warrant that:
 - You are legally competent to enter into this Agreement.
 - **No minor will access or use the Services through your account under any circumstances.** Account sharing is strictly prohibited, including sharing your account with minors.
 
-LantanaShare does not knowingly collect personal information from individuals under 18. If we become aware that a minor is using or has used the Services, including through another user's account, we will terminate the associated account immediately.
+MarigoldShare does not knowingly collect personal information from individuals under 18. If we become aware that a minor is using or has used the Services, including through another user's account, we will terminate the associated account immediately.
 
 ---
 
 ## 6. Updates to This Agreement
 
-We may update this Agreement and the incorporated policies from time to time. If we make material changes, we will notify you via email and/or in-app notification at least **30 days before** the changes take effect. Your continued use of LantanaShare after the effective date constitutes your acceptance of the revised Agreement.
+We may update this Agreement and the incorporated policies from time to time. If we make material changes, we will notify you via email and/or in-app notification at least **30 days before** the changes take effect. Your continued use of MarigoldShare after the effective date constitutes your acceptance of the revised Agreement.
 
 For material changes that involve **new categories of data use** we will seek your **affirmative re-consent** before the change takes effect, rather than relying on continued use as acceptance.
 
@@ -238,7 +238,7 @@ You can always view the current version of this Agreement and all incorporated p
 
 If you have questions about this Agreement or any of the incorporated policies, please contact us:
 
-**Lantana Intelligence LLC**
+**Marigold Intelligence LLC**
 Email: ubertool320@gmail.com
 
 ---
@@ -252,7 +252,7 @@ Email: ubertool320@gmail.com
 - You understand and separately consent to each item in Section 3, including the assumption of risk and liability waiver, the Phase 1 governance framework, and the arbitration agreement.
 - You are at least 18 years of age, legally competent to enter into this Agreement, and warrant that no minor will use the Services through your account.
 - You are voluntarily agreeing to these terms and understand that you are giving up substantial legal rights, including the right to sue in court, the right to a jury trial, and the right to participate in a class action.
-- You understand that LantanaShare is in a limited initial release under Phase 1 governance and that community membership creates no vested rights.
+- You understand that MarigoldShare is in a limited initial release under Phase 1 governance and that community membership creates no vested rights.
 
 ---
 
@@ -260,7 +260,7 @@ Email: ubertool320@gmail.com
 
 window.__legalDocs['01_terms_of_service.md'] = `# Terms of Service
 
-**LantanaShare** — Terms of Service  
+**MarigoldShare** — Terms of Service  
 **Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
@@ -276,13 +276,13 @@ Here is a brief summary before the full text. Please read the complete Terms bel
 - You must comply with our **Acceptable Use Policy** and **Community Bylaws**.
 - We are **not liable** for damages arising from Item use, rental transactions, or interactions between users.
 - We can **suspend or terminate** your account if you violate these Terms.
-- Disputes between you and LantanaShare are subject to **binding arbitration** (except where prohibited by law).
+- Disputes between you and MarigoldShare are subject to **binding arbitration** (except where prohibited by law).
 
 ---
 
 ## 1. Acceptance of Terms
 
-These Terms of Service ("Terms") are a binding legal agreement between you and **Lantana Intelligence LLC** ("we," "us," or "our"), the operator of **LantanaShare** (the "App" or "Services"). By creating an account, clicking "Sign Up," or otherwise accessing or using the Services, you agree to be bound by these Terms and our **Privacy Policy**, **Cookie Policy**, **Community Bylaws**, **Acceptable Use Policy**, and **Liability Waiver and Disclaimer**, all of which are incorporated herein by reference.
+These Terms of Service ("Terms") are a binding legal agreement between you and **Marigold Intelligence LLC** ("we," "us," or "our"), the operator of **MarigoldShare** (the "App" or "Services"). By creating an account, clicking "Sign Up," or otherwise accessing or using the Services, you agree to be bound by these Terms and our **Privacy Policy**, **Cookie Policy**, **Community Bylaws**, **Acceptable Use Policy**, and **Liability Waiver and Disclaimer**, all of which are incorporated herein by reference.
 
 If you do not agree to these Terms, do not access or use the Services.
 
@@ -314,14 +314,14 @@ We reserve the right to suspend or terminate accounts that violate these Terms o
 
 ## 4. Description of the Services
 
-LantanaShare is a community-based peer-to-peer lending platform that allows users ("Members") to list, discover, and arrange the borrowing and lending of physical Items within trusted local communities. Any Item that can be legally owned and lent between individuals may be listed, subject to the item category rules and replacement cost ceiling in the **Acceptable Use Policy** Section 4. The Services include:
+MarigoldShare is a community-based peer-to-peer lending platform that allows users ("Members") to list, discover, and arrange the borrowing and lending of physical Items within trusted local communities. Any Item that can be legally owned and lent between individuals may be listed, subject to the item category rules and replacement cost ceiling in the **Acceptable Use Policy** Section 4. The Services include:
 
 - Item listings, community membership, in-app messaging, and borrowing and lending coordination.
 - A monthly bill splitting calculation that determines the simplest payment arrangement for Members to settle rental balances within their community.
 - Payment acknowledgment tracking, allowing debtors to confirm payments made and creditors to confirm receipt, all settled directly between Members outside the app.
 - Community dispute resolution tools, governed by the **Community Bylaws**.
 
-LantanaShare is a platform only. We do not own, inspect, insure, or guarantee the condition, safety, or suitability of any Item listed on the platform. We do not process, hold, or transfer payments between Members. All rental payments are settled directly between Members using their mutually agreed-upon payment method. All rental arrangements are solely between the lending Member and the borrowing Member.
+MarigoldShare is a platform only. We do not own, inspect, insure, or guarantee the condition, safety, or suitability of any Item listed on the platform. We do not process, hold, or transfer payments between Members. All rental payments are settled directly between Members using their mutually agreed-upon payment method. All rental arrangements are solely between the lending Member and the borrowing Member.
 
 Items with a declared replacement cost exceeding **$300** may not be listed on the platform. The declared replacement cost entered at the time of listing is binding on the Lender and constitutes the absolute maximum the Lender may recover under any circumstances.
 
@@ -335,7 +335,7 @@ You retain ownership of any content you submit to the Services ("User Content"),
 
 ### 5.2 License to Us
 
-By submitting User Content, you grant LantanaShare a non-exclusive, worldwide, royalty-free, sublicensable, and transferable license to use, host, store, reproduce, modify, display, distribute, and create derivative works from your User Content for the purposes of operating, improving, and promoting the Services.
+By submitting User Content, you grant MarigoldShare a non-exclusive, worldwide, royalty-free, sublicensable, and transferable license to use, host, store, reproduce, modify, display, distribute, and create derivative works from your User Content for the purposes of operating, improving, and promoting the Services.
 
 ### 5.3 Your Representations
 
@@ -349,9 +349,9 @@ Certain content — such as completed transaction records, community reviews, or
 
 ## 6. Rental Transactions
 
-### 6.1 Role of LantanaShare
+### 6.1 Role of MarigoldShare
 
-LantanaShare provides the platform to connect Item owners ("Lenders") and borrowers ("Renters"). We are not a party to any rental transaction and are not responsible for the condition of Items, the conduct of users, or any damages, injuries, or losses arising from rental transactions.
+MarigoldShare provides the platform to connect Item owners ("Lenders") and borrowers ("Renters"). We are not a party to any rental transaction and are not responsible for the condition of Items, the conduct of users, or any damages, injuries, or losses arising from rental transactions.
 
 ### 6.2 Lender Responsibilities
 
@@ -378,7 +378,7 @@ Members acknowledge that where debtors are blocked following unresolved disputes
 
 ### 6.6 Disputes
 
-Disputes between Lenders and Renters, including payment disputes, are handled first by community admins pursuant to the **Community Bylaws**. LantanaShare may, at its sole discretion, assist in resolution but is under no obligation to do so. No dispute resolution outcome may award replacement costs exceeding the Lender's declared replacement cost at the time of listing.
+Disputes between Lenders and Renters, including payment disputes, are handled first by community admins pursuant to the **Community Bylaws**. MarigoldShare may, at its sole discretion, assist in resolution but is under no obligation to do so. No dispute resolution outcome may award replacement costs exceeding the Lender's declared replacement cost at the time of listing.
 
 ---
 
@@ -386,21 +386,21 @@ Disputes between Lenders and Renters, including payment disputes, are handled fi
 
 ### 7.1 Two-Phase Governance Model
 
-LantanaShare operates under a two-phase community governance model. The full governance framework is set out in the **Community Bylaws** Article 7.
+MarigoldShare operates under a two-phase community governance model. The full governance framework is set out in the **Community Bylaws** Article 7.
 
 ### 7.2 Phase 1 — Limited Release
 
-During Phase 1, Lantana Intelligence LLC retains full and sole authority over community creation, admin and super admin appointments, governance decisions, and community dissolution. Members joining Phase 1 communities acknowledge and agree that community membership does not create any vested rights, and that Lantana Intelligence LLC may dissolve any Phase 1 community at any time with minimum liability.
+During Phase 1, Marigold Intelligence LLC retains full and sole authority over community creation, admin and super admin appointments, governance decisions, and community dissolution. Members joining Phase 1 communities acknowledge and agree that community membership does not create any vested rights, and that Marigold Intelligence LLC may dissolve any Phase 1 community at any time with minimum liability.
 
 ### 7.3 Phase 2 — General Release
 
-The complete Phase 2 governance framework will be published no less than **30 days** before the general public release of LantanaShare.
+The complete Phase 2 governance framework will be published no less than **30 days** before the general public release of MarigoldShare.
 
 ---
 
 ## 8. Intellectual Property
 
-All content, trademarks, logos, software, and materials provided by LantanaShare (excluding User Content) are owned by or licensed to Lantana Intelligence LLC and are protected by intellectual property laws. You may not copy, modify, distribute, sell, or create derivative works from any LantanaShare materials without our express written consent.
+All content, trademarks, logos, software, and materials provided by MarigoldShare (excluding User Content) are owned by or licensed to Marigold Intelligence LLC and are protected by intellectual property laws. You may not copy, modify, distribute, sell, or create derivative works from any MarigoldShare materials without our express written consent.
 
 ---
 
@@ -412,7 +412,7 @@ You agree to comply with our **Acceptable Use Policy**, which is incorporated in
 
 ## 10. Disclaimer of Warranties
 
-THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE. LantanaShare DOES NOT WARRANT THE ACCURACY, COMPLETENESS, OR RELIABILITY OF ANY TOOL LISTING, BILL SPLITTING CALCULATION, PAYMENT RECORD, OR USER-GENERATED CONTENT.
+THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE. MarigoldShare DOES NOT WARRANT THE ACCURACY, COMPLETENESS, OR RELIABILITY OF ANY TOOL LISTING, BILL SPLITTING CALCULATION, PAYMENT RECORD, OR USER-GENERATED CONTENT.
 
 ---
 
@@ -420,21 +420,21 @@ THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY K
 
 ### 11.1 Exclusion of Damages
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, Lantana Intelligence LLC AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING LOSS OF PROFITS, LOSS OF DATA, LOSS OF GOODWILL, PERSONAL INJURY, PROPERTY DAMAGE, OR SERVICE INTERRUPTION, ARISING OUT OF OR RELATED TO YOUR USE OF THE SERVICES OR ANY RENTAL TRANSACTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, Marigold Intelligence LLC AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING LOSS OF PROFITS, LOSS OF DATA, LOSS OF GOODWILL, PERSONAL INJURY, PROPERTY DAMAGE, OR SERVICE INTERRUPTION, ARISING OUT OF OR RELATED TO YOUR USE OF THE SERVICES OR ANY RENTAL TRANSACTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ### 11.2 Categorical Exclusions
 
-WITHOUT LIMITING THE FOREGOING, Lantana Intelligence LLC IS SPECIFICALLY NOT LIABLE FOR service availability failures, algorithmic or calculation errors, data loss, third-party infrastructure failures, Item transaction losses, Member conduct, or Community Governance decisions. See the full Terms for complete categorical exclusions.
+WITHOUT LIMITING THE FOREGOING, Marigold Intelligence LLC IS SPECIFICALLY NOT LIABLE FOR service availability failures, algorithmic or calculation errors, data loss, third-party infrastructure failures, Item transaction losses, Member conduct, or Community Governance decisions. See the full Terms for complete categorical exclusions.
 
 ### 11.3 Basis of the Bargain
 
-YOU ACKNOWLEDGE THAT LantanaShare IS PROVIDED FREE OF CHARGE AND THAT THE DISCLAIMERS AND EXCLUSIONS OF LIABILITY IN THIS SECTION REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR LIMITATION OF CERTAIN DAMAGES, SO SOME OF THE ABOVE MAY NOT APPLY TO YOU.
+YOU ACKNOWLEDGE THAT MarigoldShare IS PROVIDED FREE OF CHARGE AND THAT THE DISCLAIMERS AND EXCLUSIONS OF LIABILITY IN THIS SECTION REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR LIMITATION OF CERTAIN DAMAGES, SO SOME OF THE ABOVE MAY NOT APPLY TO YOU.
 
 ---
 
 ## 12. Indemnification
 
-You agree to indemnify, defend, and hold harmless Lantana Intelligence LLC and its officers, directors, employees, and agents from any claims, damages, losses, liabilities, costs, or expenses (including reasonable attorneys' fees) arising out of: (a) your use of the Services; (b) your User Content; (c) any rental transaction you participate in; (d) your violation of these Terms; or (e) your violation of any third-party right.
+You agree to indemnify, defend, and hold harmless Marigold Intelligence LLC and its officers, directors, employees, and agents from any claims, damages, losses, liabilities, costs, or expenses (including reasonable attorneys' fees) arising out of: (a) your use of the Services; (b) your User Content; (c) any rental transaction you participate in; (d) your violation of these Terms; or (e) your violation of any third-party right.
 
 ---
 
@@ -446,7 +446,7 @@ If you have a dispute with us, please contact us first at **ubertool320@gmail.co
 
 ### 13.2 Binding Arbitration
 
-If informal resolution fails, you and Lantana Intelligence LLC agree to resolve disputes through binding individual arbitration under the rules of American Arbitration Association (AAA), except where prohibited by applicable law. You waive the right to a jury trial and the right to participate in a class action.
+If informal resolution fails, you and Marigold Intelligence LLC agree to resolve disputes through binding individual arbitration under the rules of American Arbitration Association (AAA), except where prohibited by applicable law. You waive the right to a jury trial and the right to participate in a class action.
 
 ### 13.3 EEA/UK Users
 
@@ -474,7 +474,7 @@ We may update these Terms from time to time. If we make material changes, we wil
 
 ## 17. Contact
 
-**Lantana Intelligence LLC**
+**Marigold Intelligence LLC**
 Email: ubertool320@gmail.com
 
 ---
@@ -483,7 +483,7 @@ Email: ubertool320@gmail.com
 
 window.__legalDocs['02_privacy_policy.md'] = `# Privacy Policy
 
-**LantanaShare** — Privacy Policy  
+**MarigoldShare** — Privacy Policy  
 **Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
@@ -491,7 +491,7 @@ window.__legalDocs['02_privacy_policy.md'] = `# Privacy Policy
 
 ## 1. Introduction
 
-Welcome to **LantanaShare** ("we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, share, and protect your information when you use our mobile application and related services (collectively, the "Services").
+Welcome to **MarigoldShare** ("we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, share, and protect your information when you use our mobile application and related services (collectively, the "Services").
 
 Please read this policy carefully. By creating an account or using the Services, you agree to the practices described here. If you do not agree, please do not use our Services.
 
@@ -504,7 +504,7 @@ Please read this policy carefully. By creating an account or using the Services,
 - **Account Information:** When you register, we collect your name, email address, phone number, profile photo, and password.
 - **Profile Information:** Location (city, neighborhood), community membership, and any additional details you choose to add to your profile.
 - **Item Listings:** Information about Items you list for borrowing, including descriptions, photos, availability, rental pricing, and declared replacement cost.
-- **Transaction Information:** Records of Item lending and borrowing activity, rental agreements, bill splitting calculations, and payment acknowledgments. Note that LantanaShare does not process payments directly — all payments are settled between users outside the app using their mutually agreed-upon payment method.
+- **Transaction Information:** Records of Item lending and borrowing activity, rental agreements, bill splitting calculations, and payment acknowledgments. Note that MarigoldShare does not process payments directly — all payments are settled between users outside the app using their mutually agreed-upon payment method.
 - **Communications:** Messages exchanged with other users within the app, dispute submissions, and support requests sent to us.
 
 ### 2.2 Information We Collect Automatically
@@ -519,7 +519,7 @@ When you use the Services, we automatically collect:
 
 ### 2.3 Authentication Data
 
-LantanaShare uses **email and password authentication** to verify your identity. When you log in, your email address and password are transmitted over a TLS-encrypted connection. Passwords are never stored in plaintext — only as a cryptographic hash (bcrypt) on our servers. Upon successful authentication, the app receives a short-lived access token (JWT) and a refresh token, both stored securely on your device. Access tokens expire automatically; refresh tokens are used to obtain new access tokens without requiring you to log in again.
+MarigoldShare uses **email and password authentication** to verify your identity. When you log in, your email address and password are transmitted over a TLS-encrypted connection. Passwords are never stored in plaintext — only as a cryptographic hash (bcrypt) on our servers. Upon successful authentication, the app receives a short-lived access token (JWT) and a refresh token, both stored securely on your device. Access tokens expire automatically; refresh tokens are used to obtain new access tokens without requiring you to log in again.
 
 We retain authentication tokens only for as long as your session is active. No authentication credentials are retained after account deletion.
 
@@ -558,8 +558,8 @@ We may share your information in the following circumstances:
   - **Email delivery (Google Workspace / Gmail):** Used to send transactional emails such as payment notices and account alerts. Your email address is processed by Google's servers for this purpose.
   - **Push notifications (Google Firebase Cloud Messaging):** Used to deliver push notifications to your device. A device-specific FCM token is shared with Google to enable delivery.
   - **Analytics (Firebase Analytics):** Used to understand app usage and diagnose errors. Data is aggregated and does not directly identify you.
-- **For Legal Reasons:** We may disclose your information if required by law, court order, or governmental authority, or to protect the rights, safety, or property of LantanaShare, our users, or the public.
-- **Business Transfers:** If LantanaShare is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you via email and/or in-app notification prior to such a transfer.
+- **For Legal Reasons:** We may disclose your information if required by law, court order, or governmental authority, or to protect the rights, safety, or property of MarigoldShare, our users, or the public.
+- **Business Transfers:** If MarigoldShare is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you via email and/or in-app notification prior to such a transfer.
 - **With Your Consent:** We may share your information for any other purpose with your explicit consent.
 
 ---
@@ -587,7 +587,7 @@ Depending on where you live, you may have certain rights regarding your personal
 - **Deletion:** You can request deletion of your account and personal information.
 - **Withdraw Consent:** Where we rely on your consent to process data, you may withdraw it at any time.
 
-**California residents** (and residents of Colorado, Connecticut, Virginia, Texas, Oregon, and other states with applicable privacy laws) may have additional rights. As LantanaShare does not sell or share personal information for advertising purposes, cross-context behavioral advertising opt-out rights are not currently applicable.
+**California residents** (and residents of Colorado, Connecticut, Virginia, Texas, Oregon, and other states with applicable privacy laws) may have additional rights. As MarigoldShare does not sell or share personal information for advertising purposes, cross-context behavioral advertising opt-out rights are not currently applicable.
 
 **EEA/UK residents** have rights under the General Data Protection Regulation (GDPR) or UK GDPR, including the right to object to processing based on legitimate interests.
 
@@ -629,8 +629,8 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions, concerns, or requests about this Privacy Policy or your personal information, please contact us:
 
-**LantanaShare Privacy Team**
-Lantana Intelligence LLC
+**MarigoldShare Privacy Team**
+Marigold Intelligence LLC
 Email: ubertool320@gmail.com
 
 ---
@@ -639,7 +639,7 @@ Email: ubertool320@gmail.com
 
 window.__legalDocs['03_cookie_policy.md'] = `# Cookie Policy
 
-**LantanaShare** — Cookie Policy  
+**MarigoldShare** — Cookie Policy  
 **Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
@@ -647,7 +647,7 @@ window.__legalDocs['03_cookie_policy.md'] = `# Cookie Policy
 
 ## 1. Introduction
 
-This Cookie Policy explains how **Lantana Intelligence LLC** ("we," "us," or "our") uses cookies and similar tracking technologies (collectively, "Cookies") when you use the **LantanaShare** mobile application and related website (collectively, the "Services").
+This Cookie Policy explains how **Marigold Intelligence LLC** ("we," "us," or "our") uses cookies and similar tracking technologies (collectively, "Cookies") when you use the **MarigoldShare** mobile application and related website (collectively, the "Services").
 
 This policy should be read alongside our **Privacy Policy**, which explains more broadly how we collect and use your personal information.
 
@@ -659,7 +659,7 @@ By using the Services, you consent to our use of Cookies as described in this po
 
 Cookies are small text files or code snippets placed on your device by websites or apps. They help us recognize you, remember your preferences, and understand how you use our Services.
 
-Because LantanaShare is primarily a mobile application, we rely less on traditional browser cookies and more on equivalent mobile technologies, including:
+Because MarigoldShare is primarily a mobile application, we rely less on traditional browser cookies and more on equivalent mobile technologies, including:
 
 - **SDKs (Software Development Kits):** Code libraries integrated into our app that enable analytics, crash reporting, and push notification functionality. Current SDKs include Google Firebase.
 - **Device identifiers:** Such as app instance IDs used to distinguish devices for analytics, and Firebase Cloud Messaging (FCM) device tokens used to deliver push notifications. FCM tokens are Google-assigned identifiers unique to each app installation on a device and are processed by Google's servers when notifications are delivered.
@@ -698,16 +698,16 @@ These Cookies allow the Services to remember your preferences and provide a more
 
 ### 4.1 In-App Settings
 
-You can manage notification and privacy preferences at any time through your LantanaShare account settings under **Privacy & Notifications**.
+You can manage notification and privacy preferences at any time through your MarigoldShare account settings under **Privacy & Notifications**.
 
 ### 4.2 Device-Level Controls
 
 Your mobile device offers options to control identifiers and permissions:
 
-- **iOS:** You can manage app permissions, including location and notifications, under Settings > LantanaShare.
-- **Android:** You can manage app permissions under Settings > Apps > LantanaShare.
+- **iOS:** You can manage app permissions, including location and notifications, under Settings > MarigoldShare.
+- **Android:** You can manage app permissions under Settings > Apps > MarigoldShare.
 
-LantanaShare does not use advertising identifiers (IDFA or GAID) at this time.
+MarigoldShare does not use advertising identifiers (IDFA or GAID) at this time.
 
 ### 4.3 Browser Controls
 
@@ -715,7 +715,7 @@ If you access our website, you can control cookies through your browser settings
 
 ### 4.4 California Residents
 
-If you are a California resident, you may have rights under the California Consumer Privacy Act (CCPA/CPRA) regarding your personal information. As LantanaShare does not sell or share personal information for advertising purposes at this time, cross-context behavioral advertising opt-out rights are not currently applicable. For all other privacy rights, please refer to our **Privacy Policy** or contact us at ubertool320@gmail.com.
+If you are a California resident, you may have rights under the California Consumer Privacy Act (CCPA/CPRA) regarding your personal information. As MarigoldShare does not sell or share personal information for advertising purposes at this time, cross-context behavioral advertising opt-out rights are not currently applicable. For all other privacy rights, please refer to our **Privacy Policy** or contact us at ubertool320@gmail.com.
 
 ---
 
@@ -728,7 +728,7 @@ The following tracking technologies are retained for these periods:
 - **Functional preferences** (such as saved settings) are retained until you change them or delete your account.
 - **Push notification tokens** are retained for as long as you have notifications enabled. They are deleted when you disable notifications or delete your account.
 
-When you delete your LantanaShare account, all identifiers and preferences associated with your account are permanently deleted within **30 days**.
+When you delete your MarigoldShare account, all identifiers and preferences associated with your account are permanently deleted within **30 days**.
 
 ---
 
@@ -742,7 +742,7 @@ We may update this Cookie Policy from time to time to reflect changes in our pra
 
 If you have questions about our use of Cookies, please contact us:
 
-**Lantana Intelligence LLC Privacy Team**
+**Marigold Intelligence LLC Privacy Team**
 Email: ubertool320@gmail.com
 
 ---
@@ -751,7 +751,7 @@ Email: ubertool320@gmail.com
 
 window.__legalDocs['04_community_bylaws.md'] = `# Community Bylaws
 
-**LantanaShare** — Community Bylaws  
+**MarigoldShare** — Community Bylaws  
 **Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
@@ -759,7 +759,7 @@ window.__legalDocs['04_community_bylaws.md'] = `# Community Bylaws
 
 ## Preamble
 
-LantanaShare communities are built on trust. Members are neighbors and friends who share a mutual commitment to strengthening their community by sharing belongings and resources. These Bylaws govern the conduct of all Members within a community on LantanaShare. By joining a community, each Member agrees to be bound by these Bylaws, the LantanaShare Terms of Service, and all other applicable platform policies.
+MarigoldShare communities are built on trust. Members are neighbors and friends who share a mutual commitment to strengthening their community by sharing belongings and resources. These Bylaws govern the conduct of all Members within a community on MarigoldShare. By joining a community, each Member agrees to be bound by these Bylaws, the MarigoldShare Terms of Service, and all other applicable platform policies.
 
 The spirit of these Bylaws is simple: **treat others' property as you would want your own treated**, resolve disagreements with respect and good faith, and help build a community where everyone benefits.
 
@@ -769,7 +769,7 @@ The spirit of these Bylaws is simple: **treat others' property as you would want
 
 ### 1.1 Joining a Community
 
-Prospective members may request to join a community by submitting a request through the LantanaShare Join Request portal to a Community Admin or Super Admin. Upon approval of the request, the user will receive an email containing a unique invitation code. The user must use this invitation code within the App to join the community before the invitation expires. Membership is a privilege, not a right, and may be revoked for violations of these Bylaws.
+Prospective members may request to join a community by submitting a request through the MarigoldShare Join Request portal to a Community Admin or Super Admin. Upon approval of the request, the user will receive an email containing a unique invitation code. The user must use this invitation code within the App to join the community before the invitation expires. Membership is a privilege, not a right, and may be revoked for violations of these Bylaws.
 
 ### 1.2 Member Conduct
 
@@ -782,11 +782,11 @@ All Members agree to:
 
 ### 1.3 Accurate Profiles
 
-Members must maintain accurate profiles, including their name and community affiliation. Misrepresentation of identity is grounds for immediate removal from the community and termination of the LantanaShare account.
+Members must maintain accurate profiles, including their name and community affiliation. Misrepresentation of identity is grounds for immediate removal from the community and termination of the MarigoldShare account.
 
 ### 1.4 Age Requirement
 
-Membership and participation in LantanaShare is restricted to individuals who are at least 18 years of age. Minors may not use the Services under any circumstances, including through a parent's or guardian's account.
+Membership and participation in MarigoldShare is restricted to individuals who are at least 18 years of age. Minors may not use the Services under any circumstances, including through a parent's or guardian's account.
 
 ---
 
@@ -794,7 +794,7 @@ Membership and participation in LantanaShare is restricted to individuals who ar
 
 ### 2.1 Permitted Items
 
-LantanaShare is a community lending platform for any physical Item that can be legally owned and lent between individuals. Examples of commonly shared Items include tools, sports and recreational equipment, musical instruments, camping and outdoor gear, gardening equipment, baby and child equipment, party and event supplies, kitchen appliances, books, toys, and games. This list is illustrative and not exhaustive.
+MarigoldShare is a community lending platform for any physical Item that can be legally owned and lent between individuals. Examples of commonly shared Items include tools, sports and recreational equipment, musical instruments, camping and outdoor gear, gardening equipment, baby and child equipment, party and event supplies, kitchen appliances, books, toys, and games. This list is illustrative and not exhaustive.
 
 Items that may not be listed on the platform are defined in the **Acceptable Use Policy** Section 4.
 
@@ -820,7 +820,7 @@ All Items remain the sole property of the Lender at all times. The borrowing arr
 
 ### 2.6 Insurance
 
-LantanaShare does not provide any insurance coverage for Items, injuries, or property damage arising from lending transactions. Members are strongly encouraged to verify whether their homeowner's, renter's, or personal property insurance covers Items they lend out or borrow.
+MarigoldShare does not provide any insurance coverage for Items, injuries, or property damage arising from lending transactions. Members are strongly encouraged to verify whether their homeowner's, renter's, or personal property insurance covers Items they lend out or borrow.
 
 ---
 
@@ -864,7 +864,7 @@ All Members must engage with each other in good faith. This includes honest comm
 
 ### 4.2 Prohibited Behavior
 
-The following conduct is strictly prohibited and may result in removal from the community and/or termination of the LantanaShare account:
+The following conduct is strictly prohibited and may result in removal from the community and/or termination of the MarigoldShare account:
 
 - Harassment, intimidation, threats, or abusive communication toward any Member.
 - Fraudulent listings or misrepresentation of Item condition, ownership, or declared replacement cost.
@@ -929,9 +929,9 @@ When a debtor is blocked following a forced resolution, their unpaid debt remain
 
 If faulty debtors accumulate over time, the total redistributed credit can grow. Active Members in good standing progressively absorb a larger share of the collective unpaid balance.
 
-**What this means for Members:** By joining a community and participating in bill splitting, each Member acknowledges and accepts that they may bear a proportional share of unpaid credits from blocked debtors as part of how the bill splitting system operates. This is not a fee charged by LantanaShare — it is an inherent characteristic of how community-wide net settlement works when some Members do not fulfill their obligations.
+**What this means for Members:** By joining a community and participating in bill splitting, each Member acknowledges and accepts that they may bear a proportional share of unpaid credits from blocked debtors as part of how the bill splitting system operates. This is not a fee charged by MarigoldShare — it is an inherent characteristic of how community-wide net settlement works when some Members do not fulfill their obligations.
 
-**LantanaShare's role:** Lantana Intelligence LLC is not responsible for unpaid credits between Members, redistributed balances arising from blocked accounts, or the financial impact on active Members of unresolved disputes.
+**MarigoldShare's role:** Marigold Intelligence LLC is not responsible for unpaid credits between Members, redistributed balances arising from blocked accounts, or the financial impact on active Members of unresolved disputes.
 
 ---
 
@@ -945,7 +945,7 @@ Members are encouraged to resolve disputes directly and informally. Most disagre
 
 Community Admins have full authority to mediate disagreements; determine fair compensation amounts for damaged or lost Items, subject always to the declared replacement cost ceiling; issue warnings to Members who violate these Bylaws; and suspend or remove Members from the community for serious or repeated violations.
 
-Admin decisions on disputes are **final and binding at the community level**. Members who disagree with an admin decision may escalate the matter to LantanaShare support, but LantanaShare is not obligated to reverse a community admin's decision except where it conflicts with applicable law or the platform's Terms of Service.
+Admin decisions on disputes are **final and binding at the community level**. Members who disagree with an admin decision may escalate the matter to MarigoldShare support, but MarigoldShare is not obligated to reverse a community admin's decision except where it conflicts with applicable law or the platform's Terms of Service.
 
 ### 6.3 Admin Impartiality
 
@@ -957,45 +957,45 @@ Admins must recuse themselves from any dispute in which they have a personal int
 
 ### 7.1 Overview
 
-LantanaShare operates under a two-phase governance model. The phase applicable to each community determines how that community is created, governed, and dissolved.
+MarigoldShare operates under a two-phase governance model. The phase applicable to each community determines how that community is created, governed, and dissolved.
 
 ### Phase 1 — Limited Release Governance
 
 **7.2 Scope of Phase 1**
 
-Phase 1 applies to all communities created during the initial limited release of LantanaShare. Phase 1 communities are created solely by Lantana Intelligence LLC and are available by invitation only.
+Phase 1 applies to all communities created during the initial limited release of MarigoldShare. Phase 1 communities are created solely by Marigold Intelligence LLC and are available by invitation only.
 
-**7.3 Lantana Intelligence LLC Authority in Phase 1**
+**7.3 Marigold Intelligence LLC Authority in Phase 1**
 
-During Phase 1, Lantana Intelligence LLC retains full and sole authority over all aspects of community governance, including creating and naming communities; determining membership eligibility; appointing, promoting, demoting, and removing admins and super admins; modifying community governance structures; suspending or removing any Member; and dissolving any Phase 1 community at any time.
+During Phase 1, Marigold Intelligence LLC retains full and sole authority over all aspects of community governance, including creating and naming communities; determining membership eligibility; appointing, promoting, demoting, and removing admins and super admins; modifying community governance structures; suspending or removing any Member; and dissolving any Phase 1 community at any time.
 
 **7.4 Admin and Super Admin Roles in Phase 1**
 
-Lantana Intelligence LLC may appoint Members as admins or super admins to assist with day-to-day community management. These appointments are made at Lantana Intelligence LLC's sole discretion and may be revoked at any time. Admin and super admin roles in Phase 1 do not create any employment, agency, or contractual relationship between the appointed Member and Lantana Intelligence LLC.
+Marigold Intelligence LLC may appoint Members as admins or super admins to assist with day-to-day community management. These appointments are made at Marigold Intelligence LLC's sole discretion and may be revoked at any time. Admin and super admin roles in Phase 1 do not create any employment, agency, or contractual relationship between the appointed Member and Marigold Intelligence LLC.
 
 **7.5 Phase 1 Community Dissolution**
 
-Lantana Intelligence LLC reserves the right to dissolve any Phase 1 community at any time, with or without cause.
+Marigold Intelligence LLC reserves the right to dissolve any Phase 1 community at any time, with or without cause.
 
 **7.6 Dissolution Process and Member Protections**
 
-Where operationally feasible, Lantana Intelligence LLC will endeavor to provide Members with at least **14 days** advance notice of a planned community dissolution; complete or close any active rental agreements before dissolution; and trigger a final bill splitting cycle prior to dissolution.
+Where operationally feasible, Marigold Intelligence LLC will endeavor to provide Members with at least **14 days** advance notice of a planned community dissolution; complete or close any active rental agreements before dissolution; and trigger a final bill splitting cycle prior to dissolution.
 
 Members acknowledge that outstanding payment obligations between Members at the time of dissolution remain the personal obligations of the individual Members involved and do not extinguish upon dissolution.
 
 **7.7 No Vested Rights in Phase 1**
 
-Membership in a Phase 1 community does not create any vested rights, property interests, or entitlements. Lantana Intelligence LLC's exercise of its governance authority, including dissolution, does not give rise to any claim for damages, compensation, or other relief against Lantana Intelligence LLC.
+Membership in a Phase 1 community does not create any vested rights, property interests, or entitlements. Marigold Intelligence LLC's exercise of its governance authority, including dissolution, does not give rise to any claim for damages, compensation, or other relief against Marigold Intelligence LLC.
 
 ### Phase 2 — General Release Governance
 
 **7.8 Transition to Phase 2**
 
-Lantana Intelligence LLC will publish the complete Phase 2 governance framework — including community creation requirements, super admin tier mechanics, peer governance and demotion processes, and detailed dissolution procedures — no less than **30 days** before Phase 2 launches.
+Marigold Intelligence LLC will publish the complete Phase 2 governance framework — including community creation requirements, super admin tier mechanics, peer governance and demotion processes, and detailed dissolution procedures — no less than **30 days** before Phase 2 launches.
 
 **7.9 Phase 2 Governance Principles**
 
-The Phase 2 governance framework will define super admin authority to promote and demote admins; establish community creation processes; define conditions for community dissolution; establish a process for LantanaShare to remove admins or super admins who violate platform policies; and provide Members with meaningful notice before material governance changes take effect.
+The Phase 2 governance framework will define super admin authority to promote and demote admins; establish community creation processes; define conditions for community dissolution; establish a process for MarigoldShare to remove admins or super admins who violate platform policies; and provide Members with meaningful notice before material governance changes take effect.
 
 ---
 
@@ -1003,7 +1003,7 @@ The Phase 2 governance framework will define super admin authority to promote an
 
 ### 8.1 Appointment of Admins
 
-Each community must have at least one Super Admin. In Phase 1 communities, super admins are appointed by Lantana Intelligence LLC. In Phase 2 communities, super admins may be founders of the community or Members appointed by existing super admins.
+Each community must have at least one Super Admin. In Phase 1 communities, super admins are appointed by Marigold Intelligence LLC. In Phase 2 communities, super admins may be founders of the community or Members appointed by existing super admins.
 
 ### 8.2 Super Admin and Admin Duties
 
@@ -1011,21 +1011,21 @@ Super Admins and Admins are responsible for welcoming and onboarding new Members
 
 ### 8.3 Admin Limitations
 
-Admins and Super Admins do not have authority to modify the LantanaShare Terms of Service, Privacy Policy, or any platform-level policies. Admins/Super Admins may not award replacement costs exceeding the declared replacement cost ceiling established in Article 2.3.
+Admins and Super Admins do not have authority to modify the MarigoldShare Terms of Service, Privacy Policy, or any platform-level policies. Admins/Super Admins may not award replacement costs exceeding the declared replacement cost ceiling established in Article 2.3.
 
 ---
 
 ## Article 9 — Amendments
 
-These Bylaws may be updated by LantanaShare from time to time to reflect changes in platform policies, legal requirements, or community best practices. Members will be notified of material changes via in-app notification. Continued use of the community following notification constitutes acceptance of the updated Bylaws.
+These Bylaws may be updated by MarigoldShare from time to time to reflect changes in platform policies, legal requirements, or community best practices. Members will be notified of material changes via in-app notification. Continued use of the community following notification constitutes acceptance of the updated Bylaws.
 
-Individual communities may establish additional local rules, provided they do not conflict with these Bylaws or the LantanaShare Terms of Service.
+Individual communities may establish additional local rules, provided they do not conflict with these Bylaws or the MarigoldShare Terms of Service.
 
 ---
 
 ## Article 10 — Acknowledgment
 
-By joining a community on LantanaShare, you acknowledge that you have read, understood, and agreed to be bound by these Community Bylaws, including the governance phase framework in Article 7 applicable to the community you are joining.
+By joining a community on MarigoldShare, you acknowledge that you have read, understood, and agreed to be bound by these Community Bylaws, including the governance phase framework in Article 7 applicable to the community you are joining.
 
 ---
 
@@ -1033,19 +1033,19 @@ By joining a community on LantanaShare, you acknowledge that you have read, unde
 
 window.__legalDocs['05_liability_waiver.md'] = `# Liability Waiver and Disclaimer
 
-**LantanaShare** — Liability Waiver and Disclaimer  
+**MarigoldShare** — Liability Waiver and Disclaimer  
 **Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
 ---
 
-> **IMPORTANT: PLEASE READ THIS WAIVER CAREFULLY BEFORE USING THE SERVICES OR PARTICIPATING IN ANY ITEM LENDING OR BORROWING TRANSACTION. BY CREATING AN ACCOUNT AND USING LantanaShare, YOU AGREE TO THE TERMS OF THIS WAIVER. IF YOU DO NOT AGREE, DO NOT USE THE SERVICES.**
+> **IMPORTANT: PLEASE READ THIS WAIVER CAREFULLY BEFORE USING THE SERVICES OR PARTICIPATING IN ANY ITEM LENDING OR BORROWING TRANSACTION. BY CREATING AN ACCOUNT AND USING MarigoldShare, YOU AGREE TO THE TERMS OF THIS WAIVER. IF YOU DO NOT AGREE, DO NOT USE THE SERVICES.**
 
 ---
 
 ## 1. Nature of the Platform
 
-LantanaShare is a peer-to-peer platform that connects individuals ("Members") within local communities to facilitate the lending and borrowing of physical Items. **Lantana Intelligence LLC** ("we," "us," or "our") does not own any Items listed on the platform, does not inspect or certify the condition or safety of any Items, does not supervise any lending or borrowing arrangements, and is not a party to any transaction between Members. The platform limits listings to Items with a declared replacement cost of $300 or less.
+MarigoldShare is a peer-to-peer platform that connects individuals ("Members") within local communities to facilitate the lending and borrowing of physical Items. **Marigold Intelligence LLC** ("we," "us," or "our") does not own any Items listed on the platform, does not inspect or certify the condition or safety of any Items, does not supervise any lending or borrowing arrangements, and is not a party to any transaction between Members. The platform limits listings to Items with a declared replacement cost of $300 or less.
 
 All Item lending and borrowing arrangements are made solely between individual Members at their own risk.
 
@@ -1053,7 +1053,7 @@ All Item lending and borrowing arrangements are made solely between individual M
 
 ## 2. Assumption of Risk
 
-By participating in any Item lending or borrowing transaction facilitated through LantanaShare, you freely and voluntarily acknowledge and accept all risks associated with:
+By participating in any Item lending or borrowing transaction facilitated through MarigoldShare, you freely and voluntarily acknowledge and accept all risks associated with:
 
 - The condition, safety, and suitability of any Item borrowed or lent.
 - The operation, use, or misuse of any Item.
@@ -1069,9 +1069,9 @@ You further acknowledge that the platform limits Item listings to a declared rep
 
 ## 3. Release of Liability
 
-To the fullest extent permitted by applicable law, **you hereby release, waive, discharge, and covenant not to sue Lantana Intelligence LLC, its subsidiaries, affiliates, officers, directors, employees, agents, representatives, successors, and assigns** (collectively, the "Released Parties") from any and all claims, demands, actions, damages, losses, costs, and liabilities of any kind (including personal injury, death, and property damage), whether known or unknown, arising out of or related to:
+To the fullest extent permitted by applicable law, **you hereby release, waive, discharge, and covenant not to sue Marigold Intelligence LLC, its subsidiaries, affiliates, officers, directors, employees, agents, representatives, successors, and assigns** (collectively, the "Released Parties") from any and all claims, demands, actions, damages, losses, costs, and liabilities of any kind (including personal injury, death, and property damage), whether known or unknown, arising out of or related to:
 
-- Your use of the LantanaShare platform.
+- Your use of the MarigoldShare platform.
 - Any Item lending or borrowing transaction you participate in.
 - The condition, operation, or use of any Item.
 - The conduct of any other Member.
@@ -1092,7 +1092,7 @@ You agree to indemnify, defend, and hold harmless the Released Parties from any 
 
 ## 5. No Warranty Regarding Items
 
-LantanaShare makes no representation or warranty of any kind, express or implied, regarding:
+MarigoldShare makes no representation or warranty of any kind, express or implied, regarding:
 
 - The condition, safety, fitness for purpose, or suitability of any Item listed on the platform.
 - The accuracy of any Item description, listing, declared replacement cost, or user review.
@@ -1104,7 +1104,7 @@ Members lend and borrow Items entirely at their own risk.
 
 ## 6. Insurance
 
-LantanaShare does not provide any insurance coverage for Items, injuries, or property damage arising from rental transactions. Members are strongly encouraged to:
+MarigoldShare does not provide any insurance coverage for Items, injuries, or property damage arising from rental transactions. Members are strongly encouraged to:
 
 - Verify whether their homeowner's, renter's, or personal property insurance covers Items they lend out or borrow.
 - Consider standalone personal liability or rental insurance where appropriate.
@@ -1114,7 +1114,7 @@ LantanaShare does not provide any insurance coverage for Items, injuries, or pro
 
 ## 7. Limitation of Liability
 
-The limitations of liability in this Waiver are consistent with and complement the categorical exclusions set out in the LantanaShare **Terms of Service**, which is incorporated herein by reference.
+The limitations of liability in this Waiver are consistent with and complement the categorical exclusions set out in the MarigoldShare **Terms of Service**, which is incorporated herein by reference.
 
 To the maximum extent permitted by applicable law, the Released Parties shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages — including personal injury, death, property damage, service interruption, data loss, or calculation errors — arising from or related to any Item lending or borrowing transaction or your use of the Services.
 
@@ -1144,7 +1144,7 @@ This Waiver is governed by the laws of the State of **Delaware**, United States,
 
 ## 10. Acknowledgment
 
-**BY CREATING AN ACCOUNT AND USING LantanaShare, YOU ACKNOWLEDGE THAT:**
+**BY CREATING AN ACCOUNT AND USING MarigoldShare, YOU ACKNOWLEDGE THAT:**
 
 - **YOU HAVE READ AND UNDERSTOOD THIS WAIVER.**
 - **YOU ARE VOLUNTARILY AGREEING TO ITS TERMS.**
@@ -1157,7 +1157,7 @@ This Waiver is governed by the laws of the State of **Delaware**, United States,
 
 window.__legalDocs['06_acceptable_use_policy.md'] = `# Acceptable Use Policy
 
-**LantanaShare** — Acceptable Use Policy (AUP)  
+**MarigoldShare** — Acceptable Use Policy (AUP)  
 **Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
@@ -1165,15 +1165,15 @@ window.__legalDocs['06_acceptable_use_policy.md'] = `# Acceptable Use Policy
 
 ## 1. Purpose
 
-This Acceptable Use Policy ("AUP") sets out the rules for how you may — and may not — use the **LantanaShare** platform (the "Services"). This AUP is incorporated into and forms part of the LantanaShare Terms of Service. By using the Services, you agree to comply with this AUP.
+This Acceptable Use Policy ("AUP") sets out the rules for how you may — and may not — use the **MarigoldShare** platform (the "Services"). This AUP is incorporated into and forms part of the MarigoldShare Terms of Service. By using the Services, you agree to comply with this AUP.
 
-The goal of this policy is to maintain a safe, trustworthy, and respectful environment for all Members of the LantanaShare community.
+The goal of this policy is to maintain a safe, trustworthy, and respectful environment for all Members of the MarigoldShare community.
 
 ---
 
 ## 2. Permitted Uses
 
-You may use LantanaShare to:
+You may use MarigoldShare to:
 
 - List any physical Item you own or are legally authorized to lend, subject to the item category rules in Section 4.
 - Browse, discover, and borrow Items from other Members in your community.
@@ -1230,12 +1230,12 @@ The bill splitting and payment acknowledgment system depends on good-faith parti
 
 You may not:
 
-- Scrape, crawl, or otherwise extract data from the Services using automated means without express written permission from Lantana Intelligence LLC.
-- Reverse engineer, decompile, or attempt to extract the source code of the LantanaShare app or platform.
+- Scrape, crawl, or otherwise extract data from the Services using automated means without express written permission from Marigold Intelligence LLC.
+- Reverse engineer, decompile, or attempt to extract the source code of the MarigoldShare app or platform.
 - Interfere with, disrupt, or attempt to gain unauthorized access to any part of the Services or its infrastructure.
 - Use the Services to distribute spam, phishing messages, malware, or other harmful content.
 - Circumvent any security, rate-limiting, or access control features of the Services.
-- Use the Services to test vulnerabilities without express written authorization from Lantana Intelligence LLC.
+- Use the Services to test vulnerabilities without express written authorization from Marigold Intelligence LLC.
 
 ### 3.6 Commercial Misuse
 
@@ -1260,7 +1260,7 @@ You may not post or share:
 
 ### 4.1 General Principle
 
-LantanaShare permits the listing and borrowing of any physical Item that can be legally owned and lent between individuals, subject to the restrictions in this Section. The platform's default position is permissive — if an Item is legal to own and lend and is not excluded below, it may be listed.
+MarigoldShare permits the listing and borrowing of any physical Item that can be legally owned and lent between individuals, subject to the restrictions in this Section. The platform's default position is permissive — if an Item is legal to own and lend and is not excluded below, it may be listed.
 
 ### 4.2 Replacement Cost Ceiling
 
@@ -1318,7 +1318,7 @@ Violations of this AUP may result in one or more of the following actions, depen
 - Permanent termination of the Member's account.
 - Referral to law enforcement where illegal activity is suspected.
 
-LantanaShare reserves the right to investigate suspected violations and take appropriate action at its sole discretion. We are not obligated to provide advance notice before taking action, particularly in cases involving safety, fraud, or illegal activity.
+MarigoldShare reserves the right to investigate suspected violations and take appropriate action at its sole discretion. We are not obligated to provide advance notice before taking action, particularly in cases involving safety, fraud, or illegal activity.
 
 ---
 
@@ -1336,7 +1336,7 @@ We may update this AUP from time to time. Material changes will be communicated 
 
 ## 9. Contact
 
-**Lantana Intelligence LLC**
+**Marigold Intelligence LLC**
 Email: ubertool320@gmail.com
 
 ---
@@ -1345,7 +1345,7 @@ Email: ubertool320@gmail.com
 
 window.__legalDocs['07_eula.md'] = `# End User License Agreement (EULA)
 
-**LantanaShare** — End User License Agreement  
+**MarigoldShare** — End User License Agreement  
 **Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
@@ -1353,17 +1353,17 @@ window.__legalDocs['07_eula.md'] = `# End User License Agreement (EULA)
 
 ## 1. Introduction
 
-This End User License Agreement ("EULA") is a legal agreement between you ("User," "you") and **Lantana Intelligence LLC** ("we," "us," or "our") governing your use of the **LantanaShare** mobile application and any related software, updates, features, or services (collectively, the "App").
+This End User License Agreement ("EULA") is a legal agreement between you ("User," "you") and **Marigold Intelligence LLC** ("we," "us," or "our") governing your use of the **MarigoldShare** mobile application and any related software, updates, features, or services (collectively, the "App").
 
 By downloading, installing, or using the App, you agree to be bound by this EULA. If you do not agree, you must not download, install, or use the App.
 
-This EULA supplements and is incorporated into the LantanaShare **Terms of Service**, **Privacy Policy**, **Cookie Policy**, **Community Bylaws**, and **Acceptable Use Policy**.
+This EULA supplements and is incorporated into the MarigoldShare **Terms of Service**, **Privacy Policy**, **Cookie Policy**, **Community Bylaws**, and **Acceptable Use Policy**.
 
 ---
 
 ## 2. License Grant
 
-Subject to your compliance with this EULA and all other applicable LantanaShare policies, Lantana Intelligence LLC grants you a **limited, non-exclusive, non-transferable, non-sublicensable, revocable license** to:
+Subject to your compliance with this EULA and all other applicable MarigoldShare policies, Marigold Intelligence LLC grants you a **limited, non-exclusive, non-transferable, non-sublicensable, revocable license** to:
 
 - Download and install one copy of the App on each device you own or control.
 - Use the App solely for your personal, non-commercial purposes in accordance with this EULA and the Terms of Service.
@@ -1383,19 +1383,19 @@ You agree not to:
 - Use the App to develop a competing product or service.
 - Use the App in any manner that violates applicable law or regulation.
 - Circumvent or bypass any technological protection measures in the App.
-- Use automated tools, bots, or scripts to interact with the App in ways not authorized by Lantana Intelligence LLC.
+- Use automated tools, bots, or scripts to interact with the App in ways not authorized by Marigold Intelligence LLC.
 
 ---
 
 ## 4. Ownership
 
-The App, including all intellectual property rights therein, is and shall remain the exclusive property of Lantana Intelligence LLC and its licensors. Your use of the App does not grant you any ownership interest in the App or any intellectual property rights. All rights not expressly granted in this EULA are reserved by Lantana Intelligence LLC.
+The App, including all intellectual property rights therein, is and shall remain the exclusive property of Marigold Intelligence LLC and its licensors. Your use of the App does not grant you any ownership interest in the App or any intellectual property rights. All rights not expressly granted in this EULA are reserved by Marigold Intelligence LLC.
 
 ---
 
 ## 5. Updates and Changes
 
-Lantana Intelligence LLC may, from time to time, release updates, patches, or new versions of the App. By continuing to use the App following an update, you agree to the terms of the updated App and any updated EULA.
+Marigold Intelligence LLC may, from time to time, release updates, patches, or new versions of the App. By continuing to use the App following an update, you agree to the terms of the updated App and any updated EULA.
 
 We reserve the right to modify, suspend, or discontinue any feature or aspect of the App at any time, with or without notice, and without liability to you.
 
@@ -1423,16 +1423,16 @@ The App is made available through the **Apple App Store** and/or **Google Play S
 
 You acknowledge that:
 
-- This EULA is between you and Lantana Intelligence LLC, not between you and Apple or Google.
+- This EULA is between you and Marigold Intelligence LLC, not between you and Apple or Google.
 - Apple and Google are not responsible for the App or its content.
 - Apple and Google have no obligation to provide any maintenance or support services with respect to the App.
-- In the event of any third-party claim that the App infringes intellectual property rights, Lantana Intelligence LLC (not Apple or Google) is responsible for addressing such claims.
+- In the event of any third-party claim that the App infringes intellectual property rights, Marigold Intelligence LLC (not Apple or Google) is responsible for addressing such claims.
 
 ---
 
 ## 8. Community Governance
 
-Your use of the App to participate in a community is governed by the **Community Bylaws**, which are incorporated into the LantanaShare **Terms of Service**. In the event of any conflict between this EULA and the Community Bylaws with respect to community conduct, the Community Bylaws shall govern.
+Your use of the App to participate in a community is governed by the **Community Bylaws**, which are incorporated into the MarigoldShare **Terms of Service**. In the event of any conflict between this EULA and the Community Bylaws with respect to community conduct, the Community Bylaws shall govern.
 
 ---
 
@@ -1444,19 +1444,19 @@ Your use of the App is subject to our **Privacy Policy** and **Cookie Policy**, 
 
 ## 10. No Warranty
 
-THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, OR RELIABILITY. Lantana Intelligence LLC DOES NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, VIRUS-FREE, OR THAT DEFECTS WILL BE CORRECTED.
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, OR RELIABILITY. Marigold Intelligence LLC DOES NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, VIRUS-FREE, OR THAT DEFECTS WILL BE CORRECTED.
 
 ---
 
 ## 11. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, Lantana Intelligence LLC AND ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APP, INCLUDING LOSS OF DATA, LOSS OF PROFITS, SERVICE INTERRUPTION, OR LOSS OF GOODWILL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, Marigold Intelligence LLC AND ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APP, INCLUDING LOSS OF DATA, LOSS OF PROFITS, SERVICE INTERRUPTION, OR LOSS OF GOODWILL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ---
 
 ## 12. Termination
 
-This EULA is effective until terminated. Lantana Intelligence LLC may terminate this EULA and your license to use the App at any time if you breach any provision of this EULA or the Terms of Service. You may terminate this EULA at any time by uninstalling and permanently deleting the App from all your devices.
+This EULA is effective until terminated. Marigold Intelligence LLC may terminate this EULA and your license to use the App at any time if you breach any provision of this EULA or the Terms of Service. You may terminate this EULA at any time by uninstalling and permanently deleting the App from all your devices.
 
 Upon termination, your license to use the App is immediately revoked and you must uninstall and delete all copies of the App in your possession.
 
@@ -1464,7 +1464,7 @@ Upon termination, your license to use the App is immediately revoked and you mus
 
 ## 13. Governing Law and Dispute Resolution
 
-This EULA is governed by the laws of the State of **Delaware**, United States, without regard to conflict of law principles. Any disputes arising under this EULA are subject to the dispute resolution provisions set out in the LantanaShare **Terms of Service**, including binding arbitration where applicable.
+This EULA is governed by the laws of the State of **Delaware**, United States, without regard to conflict of law principles. Any disputes arising under this EULA are subject to the dispute resolution provisions set out in the MarigoldShare **Terms of Service**, including binding arbitration where applicable.
 
 ---
 
@@ -1472,7 +1472,7 @@ This EULA is governed by the laws of the State of **Delaware**, United States, w
 
 If you have questions about this EULA, please contact:
 
-**Lantana Intelligence LLC**
+**Marigold Intelligence LLC**
 Email: ubertool320@gmail.com
 
 ---

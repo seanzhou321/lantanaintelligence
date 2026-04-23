@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**LantanaShare** — Privacy Policy
+**MarigoldShare** — Privacy Policy
 **Effective Date:** April 15, 2026
 **Last Updated:** April 15, 2026
 
@@ -8,7 +8,7 @@
 
 ## 1. Introduction
 
-Welcome to **LantanaShare** ("we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, share, and protect your information when you use our mobile application and related services (collectively, the "Services").
+Welcome to **MarigoldShare** ("we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, share, and protect your information when you use our mobile application and related services (collectively, the "Services").
 
 Please read this policy carefully. By creating an account or using the Services, you agree to the practices described here. If you do not agree, please do not use our Services.
 
@@ -21,7 +21,7 @@ Please read this policy carefully. By creating an account or using the Services,
 - **Account Information:** When you register, we collect your name, email address, phone number, profile photo, and password.
 - **Profile Information:** Location (city, neighborhood), community membership, and any additional details you choose to add to your profile.
 - **Item Listings:** Information about Items you list for borrowing, including descriptions, photos, availability, rental pricing, and declared replacement cost.
-- **Transaction Information:** Records of Item lending and borrowing activity, rental agreements, bill splitting calculations, and payment acknowledgments. Note that LantanaShare does not process payments directly — all payments are settled between users outside the app using their mutually agreed-upon payment method.
+- **Transaction Information:** Records of Item lending and borrowing activity, rental agreements, bill splitting calculations, and payment acknowledgments. Note that MarigoldShare does not process payments directly — all payments are settled between users outside the app using their mutually agreed-upon payment method.
 - **Communications:** Messages exchanged with other users within the app, dispute submissions, and support requests sent to us.
 
 ### 2.2 Information We Collect Automatically
@@ -36,7 +36,7 @@ When you use the Services, we automatically collect:
 
 ### 2.3 Authentication Data
 
-LantanaShare uses **email and password authentication** to verify your identity. When you log in, your email address and password are transmitted over a TLS-encrypted connection. Passwords are never stored in plaintext — only as a cryptographic hash (bcrypt) on our servers. Upon successful authentication, the app receives a short-lived access token (JWT) and a refresh token, both stored securely on your device. Access tokens expire automatically; refresh tokens are used to obtain new access tokens without requiring you to log in again.
+MarigoldShare uses **email and password authentication** to verify your identity. When you log in, your email address and password are transmitted over a TLS-encrypted connection. Passwords are never stored in plaintext — only as a cryptographic hash (bcrypt) on our servers. Upon successful authentication, the app receives a short-lived access token (JWT) and a refresh token, both stored securely on your device. Access tokens expire automatically; refresh tokens are used to obtain new access tokens without requiring you to log in again.
 
 We retain authentication tokens only for as long as your session is active. No authentication credentials are retained after account deletion.
 
@@ -75,8 +75,8 @@ We may share your information in the following circumstances:
   - **Email delivery (Google Workspace / Gmail):** Used to send transactional emails such as payment notices and account alerts. Your email address is processed by Google's servers for this purpose.
   - **Push notifications (Google Firebase Cloud Messaging):** Used to deliver push notifications to your device. A device-specific FCM token is shared with Google to enable delivery.
   - **Analytics (Firebase Analytics):** Used to understand app usage and diagnose errors. Data is aggregated and does not directly identify you.
-- **For Legal Reasons:** We may disclose your information if required by law, court order, or governmental authority, or to protect the rights, safety, or property of LantanaShare, our users, or the public.
-- **Business Transfers:** If LantanaShare is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you via email and/or in-app notification prior to such a transfer.
+- **For Legal Reasons:** We may disclose your information if required by law, court order, or governmental authority, or to protect the rights, safety, or property of MarigoldShare, our users, or the public.
+- **Business Transfers:** If MarigoldShare is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you via email and/or in-app notification prior to such a transfer.
 - **With Your Consent:** We may share your information for any other purpose with your explicit consent.
 
 ---
@@ -104,7 +104,7 @@ Depending on where you live, you may have certain rights regarding your personal
 - **Deletion:** You can request deletion of your account and personal information.
 - **Withdraw Consent:** Where we rely on your consent to process data, you may withdraw it at any time.
 
-**California residents** (and residents of Colorado, Connecticut, Virginia, Texas, Oregon, and other states with applicable privacy laws) may have additional rights. As LantanaShare does not sell or share personal information for advertising purposes, cross-context behavioral advertising opt-out rights are not currently applicable.
+**California residents** (and residents of Colorado, Connecticut, Virginia, Texas, Oregon, and other states with applicable privacy laws) may have additional rights. As MarigoldShare does not sell or share personal information for advertising purposes, cross-context behavioral advertising opt-out rights are not currently applicable.
 
 **EEA/UK residents** have rights under the General Data Protection Regulation (GDPR) or UK GDPR, including the right to object to processing based on legitimate interests.
 
@@ -122,7 +122,7 @@ Our Services are not directed to children under the age of 13 (or the applicable
 
 We implement commercially reasonable technical and organizational measures to protect your information against unauthorized access, loss, or misuse. Our security measures include:
 
-- **Secure authentication:** LantanaShare uses email and password authentication. Passwords are transmitted only over TLS-encrypted connections and are stored only as cryptographic hashes (bcrypt) on our servers — your plaintext password is never stored. Upon login, the app receives a short-lived access token and a refresh token that authorize subsequent API requests.
+- **Secure authentication:** MarigoldShare uses email and password authentication. Passwords are transmitted only over TLS-encrypted connections and are stored only as cryptographic hashes (bcrypt) on our servers — your plaintext password is never stored. Upon login, the app receives a short-lived access token and a refresh token that authorize subsequent API requests.
 - **Encrypted data transmission:** All communications between the app and our servers use TLS encryption (gRPC over TLS on port 50052).
 - **Cloud infrastructure security:** Our cloud hosting provider (AWS) maintains physical and network security controls for the infrastructure on which your data is stored.
 
@@ -146,8 +146,8 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions, concerns, or requests about this Privacy Policy or your personal information, please contact us:
 
-**LantanaShare Privacy Team**
-Lantana Intelligence LLC
+**MarigoldShare Privacy Team**
+Marigold Intelligence LLC
 Email: ubertool320@gmail.com
 Support: ubertool320@gmail.com
 

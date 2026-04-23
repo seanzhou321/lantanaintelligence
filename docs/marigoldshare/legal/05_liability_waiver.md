@@ -1,18 +1,18 @@
 # Liability Waiver and Disclaimer
 
-**LantanaShare** — Liability Waiver and Disclaimer  
+**MarigoldShare** — Liability Waiver and Disclaimer  
 **Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
 ---
 
-> **IMPORTANT: PLEASE READ THIS WAIVER CAREFULLY BEFORE USING THE SERVICES OR PARTICIPATING IN ANY TOOL LENDING OR BORROWING TRANSACTION. BY CREATING AN ACCOUNT AND USING LantanaShare, YOU AGREE TO THE TERMS OF THIS WAIVER. IF YOU DO NOT AGREE, DO NOT USE THE SERVICES.**
+> **IMPORTANT: PLEASE READ THIS WAIVER CAREFULLY BEFORE USING THE SERVICES OR PARTICIPATING IN ANY TOOL LENDING OR BORROWING TRANSACTION. BY CREATING AN ACCOUNT AND USING MarigoldShare, YOU AGREE TO THE TERMS OF THIS WAIVER. IF YOU DO NOT AGREE, DO NOT USE THE SERVICES.**
 
 ---
 
 ## 1. Nature of the Platform
 
-LantanaShare is a peer-to-peer platform that connects individuals ("Members") within local communities to facilitate the lending and borrowing of physical Items. **Lantana Intelligence LLC** ("we," "us," or "our") does not own any Items listed on the platform, does not inspect or certify the condition or safety of any Items, does not supervise any lending or borrowing arrangements, and is not a party to any transaction between Members. The platform limits listings to Items with a declared replacement cost of $300 or less.
+MarigoldShare is a peer-to-peer platform that connects individuals ("Members") within local communities to facilitate the lending and borrowing of physical Items. **Marigold Intelligence LLC** ("we," "us," or "our") does not own any Items listed on the platform, does not inspect or certify the condition or safety of any Items, does not supervise any lending or borrowing arrangements, and is not a party to any transaction between Members. The platform limits listings to Items with a declared replacement cost of $300 or less.
 
 All Item lending and borrowing arrangements are made solely between individual Members at their own risk.
 
@@ -20,7 +20,7 @@ All Item lending and borrowing arrangements are made solely between individual M
 
 ## 2. Assumption of Risk
 
-By participating in any Item lending or borrowing transaction facilitated through LantanaShare, you freely and voluntarily acknowledge and accept all risks associated with:
+By participating in any Item lending or borrowing transaction facilitated through MarigoldShare, you freely and voluntarily acknowledge and accept all risks associated with:
 
 - The condition, safety, and suitability of any Item borrowed or lent.
 - The operation, use, or misuse of any Item.
@@ -36,9 +36,9 @@ You further acknowledge that the platform limits Item listings to a declared rep
 
 ## 3. Release of Liability
 
-To the fullest extent permitted by applicable law, **you hereby release, waive, discharge, and covenant not to sue Lantana Intelligence LLC, its subsidiaries, affiliates, officers, directors, employees, agents, representatives, successors, and assigns** (collectively, the "Released Parties") from any and all claims, demands, actions, damages, losses, costs, and liabilities of any kind (including personal injury, death, and property damage), whether known or unknown, arising out of or related to:
+To the fullest extent permitted by applicable law, **you hereby release, waive, discharge, and covenant not to sue Marigold Intelligence LLC, its subsidiaries, affiliates, officers, directors, employees, agents, representatives, successors, and assigns** (collectively, the "Released Parties") from any and all claims, demands, actions, damages, losses, costs, and liabilities of any kind (including personal injury, death, and property damage), whether known or unknown, arising out of or related to:
 
-- Your use of the LantanaShare platform.
+- Your use of the MarigoldShare platform.
 - Any Item lending or borrowing transaction you participate in.
 - The condition, operation, or use of any Item.
 - The conduct of any other Member.
@@ -59,7 +59,7 @@ You agree to indemnify, defend, and hold harmless the Released Parties from any 
 
 ## 5. No Warranty Regarding Items
 
-LantanaShare makes no representation or warranty of any kind, express or implied, regarding:
+MarigoldShare makes no representation or warranty of any kind, express or implied, regarding:
 
 - The condition, safety, fitness for purpose, or suitability of any Item listed on the platform.
 - The accuracy of any Item description, listing, declared replacement cost, or user review.
@@ -71,7 +71,7 @@ Members lend and borrow Items entirely at their own risk.
 
 ## 6. Insurance
 
-LantanaShare does not provide any insurance coverage for tools, injuries, or property damage arising from rental transactions. Members are strongly encouraged to:
+MarigoldShare does not provide any insurance coverage for tools, injuries, or property damage arising from rental transactions. Members are strongly encouraged to:
 
 - Verify whether their homeowner's, renter's, or personal property insurance covers tools they lend out or tools they borrow.
 - Consider standalone personal liability or rental insurance where appropriate.
@@ -81,7 +81,7 @@ LantanaShare does not provide any insurance coverage for tools, injuries, or pro
 
 ## 7. Limitation of Liability
 
-The limitations of liability in this Waiver are consistent with and complement the categorical exclusions set out in Section 10 of the LantanaShare **Terms of Service**, which is incorporated herein by reference. Together, these provisions govern the full scope of Lantana Intelligence LLC's liability to you.
+The limitations of liability in this Waiver are consistent with and complement the categorical exclusions set out in Section 10 of the MarigoldShare **Terms of Service**, which is incorporated herein by reference. Together, these provisions govern the full scope of Marigold Intelligence LLC's liability to you.
 
 Notwithstanding any other provision of this Waiver or the Terms of Service, to the maximum extent permitted by applicable law, the Released Parties shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages — including personal injury, death, property damage, service interruption, data loss, or calculation errors — arising from or related to any tool lending or borrowing transaction or your use of the Services, regardless of the theory of liability and even if the Released Parties have been advised of the possibility of such damages.
 
@@ -111,7 +111,7 @@ This Waiver is governed by the laws of the State of **Delaware**, United States,
 
 ## 10. Acknowledgment
 
-**BY CREATING AN ACCOUNT AND USING LantanaShare, YOU ACKNOWLEDGE THAT:**
+**BY CREATING AN ACCOUNT AND USING MarigoldShare, YOU ACKNOWLEDGE THAT:**
 - **YOU HAVE READ AND UNDERSTOOD THIS WAIVER.**
 - **YOU ARE VOLUNTARILY AGREEING TO ITS TERMS.**
 - **YOU ARE AT LEAST 18 YEARS OF AGE AND LEGALLY COMPETENT TO ENTER INTO THIS AGREEMENT.**

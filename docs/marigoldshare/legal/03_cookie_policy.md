@@ -1,6 +1,6 @@
 # Cookie Policy
 
-**LantanaShare** — Cookie Policy
+**MarigoldShare** — Cookie Policy
 **Effective Date:** April 15, 2026
 **Last Updated:** April 15, 2026
 
@@ -8,7 +8,7 @@
 
 ## 1. Introduction
 
-This Cookie Policy explains how **Lantana Intelligence LLC** ("we," "us," or "our") uses cookies and similar tracking technologies (collectively, "Cookies") when you use the **LantanaShare** mobile application and related website (collectively, the "Services").
+This Cookie Policy explains how **Marigold Intelligence LLC** ("we," "us," or "our") uses cookies and similar tracking technologies (collectively, "Cookies") when you use the **MarigoldShare** mobile application and related website (collectively, the "Services").
 
 This policy should be read alongside our **Privacy Policy**, which explains more broadly how we collect and use your personal information.
 
@@ -20,7 +20,7 @@ By using the Services, you consent to our use of Cookies as described in this po
 
 Cookies are small text files or code snippets placed on your device by websites or apps. They help us recognize you, remember your preferences, and understand how you use our Services.
 
-Because LantanaShare is primarily a mobile application, we rely less on traditional browser cookies and more on equivalent mobile technologies, including:
+Because MarigoldShare is primarily a mobile application, we rely less on traditional browser cookies and more on equivalent mobile technologies, including:
 
 - **SDKs (Software Development Kits):** Code libraries integrated into our app that enable analytics, crash reporting, and push notification functionality. Current SDKs include Google Firebase.
 - **Device identifiers:** Such as app instance IDs used to distinguish devices for analytics, and Firebase Cloud Messaging (FCM) device tokens used to deliver push notifications. FCM tokens are Google-assigned identifiers unique to each app installation on a device and are processed by Google's servers when notifications are delivered.
@@ -67,14 +67,14 @@ These Cookies allow the Services to remember your preferences and provide a more
 
 ### 4.1 In-App Settings
 
-You can manage notification and privacy preferences at any time through your LantanaShare account settings under **Privacy & Notifications**.
+You can manage notification and privacy preferences at any time through your MarigoldShare account settings under **Privacy & Notifications**.
 
 ### 4.2 Device-Level Controls
 
 Your mobile device offers options to control identifiers and permissions:
 
-- **iOS:** You can manage app permissions, including location and notifications, under Settings > LantanaShare. You can reset your device's Advertising Identifier under Settings > Privacy & Security > Apple Advertising, though LantanaShare does not use it at this time.
-- **Android:** You can manage app permissions under Settings > Apps > LantanaShare. You can also reset your advertising ID under Settings > Google > Ads, though LantanaShare does not use it at this time.
+- **iOS:** You can manage app permissions, including location and notifications, under Settings > MarigoldShare. You can reset your device's Advertising Identifier under Settings > Privacy & Security > Apple Advertising, though MarigoldShare does not use it at this time.
+- **Android:** You can manage app permissions under Settings > Apps > MarigoldShare. You can also reset your advertising ID under Settings > Google > Ads, though MarigoldShare does not use it at this time.
 
 ### 4.3 Browser Controls
 
@@ -82,7 +82,7 @@ If you access our website, you can control cookies through your browser settings
 
 ### 4.4 California Residents
 
-If you are a California resident, you may have rights under the California Consumer Privacy Act (CCPA/CPRA) regarding your personal information. As LantanaShare does not sell or share personal information for advertising purposes at this time, cross-context behavioral advertising opt-out rights are not currently applicable. For all other privacy rights, please refer to our **Privacy Policy** or contact us at ubertool320@gmail.com.
+If you are a California resident, you may have rights under the California Consumer Privacy Act (CCPA/CPRA) regarding your personal information. As MarigoldShare does not sell or share personal information for advertising purposes at this time, cross-context behavioral advertising opt-out rights are not currently applicable. For all other privacy rights, please refer to our **Privacy Policy** or contact us at ubertool320@gmail.com.
 
 ---
 
@@ -97,7 +97,7 @@ The following tracking technologies are retained for these periods:
 - **Functional preferences** (such as saved settings) are retained until you change them or delete your account.
 - **Push notification tokens** are retained for as long as you have notifications enabled. They are deleted when you disable notifications or delete your account.
 
-When you delete your LantanaShare account, all identifiers and preferences associated with your account are permanently deleted within **30 days**, consistent with the account deletion commitment in our **Privacy Policy**.
+When you delete your MarigoldShare account, all identifiers and preferences associated with your account are permanently deleted within **30 days**, consistent with the account deletion commitment in our **Privacy Policy**.
 
 ---
 
@@ -105,7 +105,7 @@ When you delete your LantanaShare account, all identifiers and preferences assoc
 
 We may update this Cookie Policy from time to time to reflect changes in our practices, technologies, or applicable law. We will notify you of material changes via in-app notification at least **14 days** before they take effect. Your continued use of the Services after the update constitutes acceptance of the revised policy.
 
-We are committed to keeping this policy accurate and up to date. As LantanaShare grows and new features are introduced, this policy will be updated to reflect any new data practices before they go into effect.
+We are committed to keeping this policy accurate and up to date. As MarigoldShare grows and new features are introduced, this policy will be updated to reflect any new data practices before they go into effect.
 
 ---
 
@@ -113,7 +113,7 @@ We are committed to keeping this policy accurate and up to date. As LantanaShare
 
 If you have questions about our use of Cookies, please contact us:
 
-**Lantana Intelligence LLC Privacy Team**
+**Marigold Intelligence LLC Privacy Team**
 Email: ubertool320@gmail.com
 
 ---

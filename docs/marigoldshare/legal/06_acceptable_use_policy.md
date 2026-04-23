@@ -1,6 +1,6 @@
 # Acceptable Use Policy
 
-**LantanaShare** — Acceptable Use Policy (AUP)
+**MarigoldShare** — Acceptable Use Policy (AUP)
 **Effective Date:** April 15, 2026
 **Last Updated:** April 15, 2026
 
@@ -8,15 +8,15 @@
 
 ## 1. Purpose
 
-This Acceptable Use Policy ("AUP") sets out the rules for how you may — and may not — use the **LantanaShare** platform (the "Services"). This AUP is incorporated into and forms part of the LantanaShare Terms of Service. By using the Services, you agree to comply with this AUP.
+This Acceptable Use Policy ("AUP") sets out the rules for how you may — and may not — use the **MarigoldShare** platform (the "Services"). This AUP is incorporated into and forms part of the MarigoldShare Terms of Service. By using the Services, you agree to comply with this AUP.
 
-The goal of this policy is to maintain a safe, trustworthy, and respectful environment for all Members of the LantanaShare community.
+The goal of this policy is to maintain a safe, trustworthy, and respectful environment for all Members of the MarigoldShare community.
 
 ---
 
 ## 2. Permitted Uses
 
-You may use LantanaShare to:
+You may use MarigoldShare to:
 
 - List any physical Item you own or are legally authorized to lend, subject to the item category rules in Section 4.
 - Browse, discover, and borrow Items from other Members in your community.
@@ -73,12 +73,12 @@ The bill splitting and payment acknowledgment system depends on good-faith parti
 
 You may not:
 
-- Scrape, crawl, or otherwise extract data from the Services using automated means without express written permission from Lantana Intelligence LLC.
-- Reverse engineer, decompile, or attempt to extract the source code of the LantanaShare app or platform.
+- Scrape, crawl, or otherwise extract data from the Services using automated means without express written permission from Marigold Intelligence LLC.
+- Reverse engineer, decompile, or attempt to extract the source code of the MarigoldShare app or platform.
 - Interfere with, disrupt, or attempt to gain unauthorized access to any part of the Services or its infrastructure.
 - Use the Services to distribute spam, phishing messages, malware, or other harmful content.
 - Circumvent any security, rate-limiting, or access control features of the Services.
-- Use the Services to test vulnerabilities without express written authorization from Lantana Intelligence LLC.
+- Use the Services to test vulnerabilities without express written authorization from Marigold Intelligence LLC.
 
 ### 3.6 Commercial Misuse
 
@@ -103,7 +103,7 @@ You may not post or share:
 
 ### 4.1 General Principle
 
-LantanaShare permits the listing and borrowing of any physical Item that can be legally owned and lent between individuals, subject to the restrictions in this Section. The platform's default position is permissive — if an Item is legal to own and lend and is not excluded below, it may be listed.
+MarigoldShare permits the listing and borrowing of any physical Item that can be legally owned and lent between individuals, subject to the restrictions in this Section. The platform's default position is permissive — if an Item is legal to own and lend and is not excluded below, it may be listed.
 
 ### 4.2 Replacement Cost Ceiling
 
@@ -161,7 +161,7 @@ Violations of this AUP may result in one or more of the following actions, depen
 - Permanent termination of the Member's account.
 - Referral to law enforcement where illegal activity is suspected.
 
-LantanaShare reserves the right to investigate suspected violations and take appropriate action at its sole discretion. We are not obligated to provide advance notice before taking action, particularly in cases involving safety, fraud, or illegal activity.
+MarigoldShare reserves the right to investigate suspected violations and take appropriate action at its sole discretion. We are not obligated to provide advance notice before taking action, particularly in cases involving safety, fraud, or illegal activity.
 
 ---
 
@@ -181,7 +181,7 @@ We may update this AUP from time to time. Material changes will be communicated 
 
 For questions about this AUP or to report a violation:
 
-**Lantana Intelligence LLC**
+**Marigold Intelligence LLC**
 Email: ubertool320@gmail.com
 Support: ubertool320@gmail.com
 
